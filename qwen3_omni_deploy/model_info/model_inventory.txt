@@ -1,0 +1,25 @@
+MODEL INVENTORY — Qwen3-Omni-30B-A3B-Instruct
+=============================================
+Status: DOWNLOAD COMPLETE + VERIFIED  (2026-10-07 UTC)
+
+repo_id        Qwen/Qwen3-Omni-30B-A3B-Instruct
+sha            26291f793822fb6be9555850f06dfe95f2d7e695
+local_path     /workspace/models/Qwen3-Omni-30B-A3B-Instruct
+total size     70.52 GB (66 GiB on disk)
+safetensors    15/15 shards (sizes byte-exact vs HF; headers readable)
+
+Verification results:
+  - 15/15 safetensors shard sizes == Hugging Face official sizes (byte-exact)
+  - safetensors headers all open successfully (1505..6087 tensors/shard)
+  - model.safetensors.index.json lists exactly 15 shards,
+    metadata.total_size = 70,519,637,090 bytes
+  - no .incomplete/.tmp/.partial files remain
+  - config files present: config.json, preprocessor_config.json,
+    generation_config.json, tokenizer_config.json, chat_template.json,
+    vocab.json, merges.txt, model.safetensors.index.json
+
+Shard sizes (bytes):
+  model-00001..00012  ~4,997,755,xxx each
+  model-00013          4,999,771,808
+  model-00014          4,996,618,552
+  model-00015            553,698,794

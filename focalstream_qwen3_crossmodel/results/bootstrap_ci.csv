@@ -1,0 +1,9 @@
+comparison,metric,mean,ci_low,ci_high
+full_focal_vs_dense_macro,macro,0.7099,-0.1081,1.6139
+full_focal_vs_dense_raw,raw,0.4866,-0.4109,1.4056
+focal_vs_ffv_macro,macro,0.2372,-0.5045,0.9792
+focal_vs_ffv_raw,raw,0.1469,-0.7386,1.036
+focal_vs_fcv_macro,macro,-0.9112,-2.4052,0.4587
+focal_vs_fcv_raw,raw,-0.7473,-2.2567,0.8198
+focal_vs_random_macro,macro,-0.4934,-1.761,0.6792
+focal_vs_random_raw,raw,-0.4255,-1.7465,0.8255

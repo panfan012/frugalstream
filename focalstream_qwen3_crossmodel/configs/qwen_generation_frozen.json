@@ -1,0 +1,14 @@
+{
+  "backend": "qwen3-omni-30b-a3b-instruct",
+  "endpoint": "/v1/chat/completions",
+  "model": "/workspace/models/Qwen3-Omni-30B-A3B-Instruct",
+  "modalities": ["text"],
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "max_tokens": 256,
+  "seed": 0,
+  "stream": false,
+  "timeout_s": 600,
+  "frozen_after_bulk_start": true,
+  "notes": "Deterministic generation for all main-accuracy runs. Do not change mid-run."
+}

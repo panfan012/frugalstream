@@ -1,0 +1,50 @@
+[
+  {
+    "method": "dense",
+    "n": 2909,
+    "raw": 58.1987,
+    "macro": 60.0872,
+    "cat_macro": {
+      "Real-Time Visual Perception": 71.73,
+      "Backward Tracing": 55.309,
+      "Forward Active Responding": 53.2227
+    },
+    "frames_per_qa_mean": 211.5
+  },
+  {
+    "method": "v2",
+    "n": 2909,
+    "raw": 58.3362,
+    "macro": 60.326,
+    "cat_macro": {
+      "Real-Time Visual Perception": 72.5738,
+      "Backward Tracing": 55.309,
+      "Forward Active Responding": 53.0951
+    },
+    "frames_per_qa_mean": 183.19
+  },
+  {
+    "method": "v3",
+    "n": 2909,
+    "raw": 58.8862,
+    "macro": 61.0761,
+    "cat_macro": {
+      "Real-Time Visual Perception": 74.8242,
+      "Backward Tracing": 55.309,
+      "Forward Active Responding": 53.0951
+    },
+    "frames_per_qa_mean": 183.19
+  },
+  {
+    "method": "v4",
+    "n": 2909,
+    "raw": 58.68,
+    "macro": 60.7948,
+    "cat_macro": {
+      "Real-Time Visual Perception": 73.9803,
+      "Backward Tracing": 55.309,
+      "Forward Active Responding": 53.0951
+    },
+    "frames_per_qa_mean": 183.19
+  }
+]

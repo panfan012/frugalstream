@@ -1,0 +1,71 @@
+{
+  "dev_references": {
+    "v2_raw": 0.6877637130801688,
+    "v2_macro": 0.6938247716086274,
+    "hr_raw": 0.7637130801687764,
+    "hr_macro": 0.7641405997369807,
+    "perfect_raw": 0.7876230661040787,
+    "perfect_macro": 0.790557721954082,
+    "total_wc": 71
+  },
+  "candidate_operating_points": {
+    "conservative": {
+      "threshold": 0.95,
+      "refill_rate": 0.0,
+      "positive_precision": 0.0,
+      "positive_recall": 0.0,
+      "recovered_wc": 0.0,
+      "missed_wc": 71.0,
+      "triggered_cc": 0.0,
+      "triggered_cw": 0.0,
+      "triggered_ww": 0.0,
+      "additional_hr_tokens": 0.0,
+      "token_overhead": 0.0,
+      "system_rtvp_raw": 0.687764,
+      "system_rtvp_official_macro": 0.693825,
+      "oracle_gap_recovery_raw": 0.0,
+      "oracle_gap_recovery_macro": 0.0,
+      "tokens_per_recovered": 0.0,
+      "utility": 0.693825
+    },
+    "primary": {
+      "threshold": 0.57,
+      "refill_rate": 0.078762,
+      "positive_precision": 0.303571,
+      "positive_recall": 0.239437,
+      "recovered_wc": 17.0,
+      "missed_wc": 54.0,
+      "triggered_cc": 28.0,
+      "triggered_cw": 0.0,
+      "triggered_ww": 11.0,
+      "additional_hr_tokens": 40364.0,
+      "token_overhead": 0.003539,
+      "system_rtvp_raw": 0.711674,
+      "system_rtvp_official_macro": 0.719506,
+      "oracle_gap_recovery_raw": 0.239437,
+      "oracle_gap_recovery_macro": 0.265488,
+      "tokens_per_recovered": 2374.35,
+      "utility": 0.7076917
+    },
+    "high_recall": {
+      "threshold": 0.05,
+      "refill_rate": 1.0,
+      "positive_precision": 0.099859,
+      "positive_recall": 1.0,
+      "recovered_wc": 71.0,
+      "missed_wc": 0.0,
+      "triggered_cc": 472.0,
+      "triggered_cw": 17.0,
+      "triggered_ww": 151.0,
+      "additional_hr_tokens": 613684.0,
+      "token_overhead": 0.053813,
+      "system_rtvp_raw": 0.763713,
+      "system_rtvp_official_macro": 0.764141,
+      "oracle_gap_recovery_raw": 0.760563,
+      "oracle_gap_recovery_macro": 0.726907,
+      "tokens_per_recovered": 8643.44,
+      "utility": 0.6141409999999999
+    }
+  },
+  "primary_threshold": 0.57
+}

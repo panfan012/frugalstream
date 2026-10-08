@@ -1,0 +1,17 @@
+metric,minicpm,qwen
+full_dev_dense_raw,59.2987,58.1987
+full_dev_dense_macro,63.0881,60.0872
+full_dev_v2_raw,57.7174,58.3362
+full_dev_v2_macro,60.8101,60.326
+full_dev_v3_raw,59.5737,58.8862
+full_dev_v3_macro,63.1347,61.0761
+full_dev_focal_raw,60.0206,58.68
+full_dev_focal_macro,63.8961,60.7948
+full_dev_focal_delta_macro_pp,0.808,0.7076
+oof_fixed_ffv_macro,77.0709,74.6177
+oof_fixed_fcv_macro,76.4141,75.702
+oof_focal_macro,78.6406,74.8517
+oof_random_macro_mean,76.8446,75.0947
+oof_router_gain_vs_random_pp,1.796,-0.243
+ffv_fcv_wc,31,20
+ffv_fcv_cw,32,14

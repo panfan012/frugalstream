@@ -1,0 +1,16 @@
+{
+  "test": "image_qa",
+  "status": "PASS",
+  "timestamp": "2026-10-07T05:54:01Z",
+  "image": "/root/OVO-Bench-full/results/stage2b5_accuracy_vs_token.png",
+  "question": "What is happening in this image?",
+  "latency_s": 20.135,
+  "answer": "Based on the provided image, here is a detailed analysis of what is being shown.\n\n### Chart Overview\n\nThis is a line chart that compares the performance of four different systems or algorithms. The chart plots a specific metric against an input parameter.\n\n*   **Title:** `Development RTVPOfficial Macro vs Token Overhead` and `Token overhead vs V2`. This suggests the chart is comparing a \"Macro\" method (likely the official one) against a \"Token\" method, possibly for a system named RTVP, with a focus on how their performance changes with varying levels of \"token overhead.\"\n*   **Y-axis:** Represents the performance metric being measured. The values range from approximately $0.680$ to $0.780$. Higher values indicate better performance.\n*   **X-axis:** Represents the independent variable, which is labeled as \"Token overhead.\" It ranges from $0.000$ to $0.060$.\n\n### Analysis of the Data Series\n\nThere are four distinct lines on the chart, each representing a different method:\n\n1.  **Black Line (`RTVPOfficial Macro`):**\n    *   This line starts at the lowest point on the y-axis ($\\approx 0",
+  "usage": {
+    "prompt_tokens": 1333,
+    "total_tokens": 1589,
+    "completion_tokens": 256,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": null
+  }
+}

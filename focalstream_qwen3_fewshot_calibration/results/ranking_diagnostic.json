@@ -1,0 +1,55 @@
+{
+  "n_total": 711,
+  "n_beneficial_WC": 20,
+  "n_harmful_CW": 14,
+  "n_neutral": 677,
+  "ROC_AUC_beneficial_vs_others": 0.42547033285094066,
+  "PR_AUC_beneficial_vs_others": 0.024621680977388743,
+  "ROC_AUC_harmful_vs_others": 0.3865546218487395,
+  "PR_AUC_harmful_vs_others": 0.021470994960913384,
+  "beneficial_risk_mean": 0.32108007387013326,
+  "harmful_risk_mean": 0.30758319521248423,
+  "neutral_risk_mean": 0.35776252208970744,
+  "top_risk": {
+    "10": {
+      "n_top": 71,
+      "P_beneficial_pct": 1.408450704225352,
+      "P_harmful_pct": 1.408450704225352,
+      "WC": 1,
+      "CW": 1,
+      "NetBenefit": 0
+    },
+    "20": {
+      "n_top": 142,
+      "P_beneficial_pct": 2.112676056338028,
+      "P_harmful_pct": 2.112676056338028,
+      "WC": 3,
+      "CW": 3,
+      "NetBenefit": 0
+    },
+    "30": {
+      "n_top": 213,
+      "P_beneficial_pct": 1.8779342723004695,
+      "P_harmful_pct": 2.347417840375587,
+      "WC": 4,
+      "CW": 5,
+      "NetBenefit": -1
+    },
+    "40": {
+      "n_top": 284,
+      "P_beneficial_pct": 1.408450704225352,
+      "P_harmful_pct": 1.7605633802816902,
+      "WC": 4,
+      "CW": 5,
+      "NetBenefit": -1
+    },
+    "50": {
+      "n_top": 356,
+      "P_beneficial_pct": 1.6853932584269662,
+      "P_harmful_pct": 1.404494382022472,
+      "WC": 6,
+      "CW": 5,
+      "NetBenefit": 1
+    }
+  }
+}

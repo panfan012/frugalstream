@@ -1,0 +1,7120 @@
+{
+  "counts": {
+    "WC": 20,
+    "CW": 14,
+    "CC": 512,
+    "WW": 165
+  },
+  "rows": [
+    {
+      "qa_id": "760",
+      "video_id": "AutoEvalMetaData/1.mp4",
+      "risk": 0.438003853843074,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "761",
+      "video_id": "AutoEvalMetaData/1.mp4",
+      "risk": 0.41438676092155124,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "762",
+      "video_id": "AutoEvalMetaData/1.mp4",
+      "risk": 0.5607815207476371,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "763",
+      "video_id": "AutoEvalMetaData/1.mp4",
+      "risk": 0.20243133359977988,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "764",
+      "video_id": "AutoEvalMetaData/1.mp4",
+      "risk": 0.2529233059389308,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1051",
+      "video_id": "AutoEvalMetaData/10.mp4",
+      "risk": 0.350227829116965,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1052",
+      "video_id": "AutoEvalMetaData/10.mp4",
+      "risk": 0.7300037436415459,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1053",
+      "video_id": "AutoEvalMetaData/10.mp4",
+      "risk": 0.5536213337446227,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1394",
+      "video_id": "AutoEvalMetaData/100.mp4",
+      "risk": 0.29524634569806446,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1395",
+      "video_id": "AutoEvalMetaData/100.mp4",
+      "risk": 0.2922713630590476,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "934",
+      "video_id": "AutoEvalMetaData/100.mp4",
+      "risk": 0.46652214735798264,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "935",
+      "video_id": "AutoEvalMetaData/100.mp4",
+      "risk": 0.534191214819166,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "936",
+      "video_id": "AutoEvalMetaData/100.mp4",
+      "risk": 0.534191214819166,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "937",
+      "video_id": "AutoEvalMetaData/100.mp4",
+      "risk": 0.534191214819166,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "938",
+      "video_id": "AutoEvalMetaData/100.mp4",
+      "risk": 0.534191214819166,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "939",
+      "video_id": "AutoEvalMetaData/100.mp4",
+      "risk": 0.534191214819166,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "940",
+      "video_id": "AutoEvalMetaData/100.mp4",
+      "risk": 0.534191214819166,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "941",
+      "video_id": "AutoEvalMetaData/100.mp4",
+      "risk": 0.534191214819166,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1383",
+      "video_id": "AutoEvalMetaData/101.mp4",
+      "risk": 0.298917644083618,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1384",
+      "video_id": "AutoEvalMetaData/101.mp4",
+      "risk": 0.2473198847411503,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1385",
+      "video_id": "AutoEvalMetaData/101.mp4",
+      "risk": 0.399710310437986,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1386",
+      "video_id": "AutoEvalMetaData/101.mp4",
+      "risk": 0.49557276816072793,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "884",
+      "video_id": "AutoEvalMetaData/105.mp4",
+      "risk": 0.2771214710470451,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "885",
+      "video_id": "AutoEvalMetaData/105.mp4",
+      "risk": 0.32458564853343813,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1312",
+      "video_id": "AutoEvalMetaData/107.mp4",
+      "risk": 0.23256139689984073,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1313",
+      "video_id": "AutoEvalMetaData/107.mp4",
+      "risk": 0.31229731312391035,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": false,
+      "transition": "CW",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1314",
+      "video_id": "AutoEvalMetaData/107.mp4",
+      "risk": 0.31229731312391035,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "765",
+      "video_id": "AutoEvalMetaData/107.mp4",
+      "risk": 0.21603301698317826,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "766",
+      "video_id": "AutoEvalMetaData/107.mp4",
+      "risk": 0.4497396497407834,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "767",
+      "video_id": "AutoEvalMetaData/107.mp4",
+      "risk": 0.5258291143958373,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "894",
+      "video_id": "AutoEvalMetaData/111.mp4",
+      "risk": 0.17122212936937453,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "895",
+      "video_id": "AutoEvalMetaData/111.mp4",
+      "risk": 0.30643762781122924,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "896",
+      "video_id": "AutoEvalMetaData/111.mp4",
+      "risk": 0.48400315086852636,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "897",
+      "video_id": "AutoEvalMetaData/111.mp4",
+      "risk": 0.357271922245276,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "898",
+      "video_id": "AutoEvalMetaData/111.mp4",
+      "risk": 0.130966125426679,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1370",
+      "video_id": "AutoEvalMetaData/113.mp4",
+      "risk": 0.28231638843543466,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1371",
+      "video_id": "AutoEvalMetaData/113.mp4",
+      "risk": 0.4394487647713574,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "729",
+      "video_id": "AutoEvalMetaData/114.mp4",
+      "risk": 0.397921179124923,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "730",
+      "video_id": "AutoEvalMetaData/114.mp4",
+      "risk": 0.4662303830562481,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "731",
+      "video_id": "AutoEvalMetaData/114.mp4",
+      "risk": 0.4894656711653281,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "732",
+      "video_id": "AutoEvalMetaData/114.mp4",
+      "risk": 0.5260839497053393,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1273",
+      "video_id": "AutoEvalMetaData/115.mp4",
+      "risk": 0.22323467633748215,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1274",
+      "video_id": "AutoEvalMetaData/115.mp4",
+      "risk": 0.33406010088604543,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1304",
+      "video_id": "AutoEvalMetaData/116.mp4",
+      "risk": 0.6531234557651718,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1305",
+      "video_id": "AutoEvalMetaData/116.mp4",
+      "risk": 0.6531234557651718,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1415",
+      "video_id": "AutoEvalMetaData/118.mp4",
+      "risk": 0.23655637261389015,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1416",
+      "video_id": "AutoEvalMetaData/118.mp4",
+      "risk": 0.23655637261389015,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1417",
+      "video_id": "AutoEvalMetaData/118.mp4",
+      "risk": 0.23655637261389015,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1098",
+      "video_id": "AutoEvalMetaData/119.mp4",
+      "risk": 0.3502041175030239,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "797",
+      "video_id": "AutoEvalMetaData/119.mp4",
+      "risk": 0.3469743140515411,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "798",
+      "video_id": "AutoEvalMetaData/119.mp4",
+      "risk": 0.2509734884746354,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": true,
+      "transition": "WC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1256",
+      "video_id": "AutoEvalMetaData/12.mp4",
+      "risk": 0.18957286412294716,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1257",
+      "video_id": "AutoEvalMetaData/12.mp4",
+      "risk": 0.19412066455042962,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1258",
+      "video_id": "AutoEvalMetaData/12.mp4",
+      "risk": 0.19412066455042962,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1259",
+      "video_id": "AutoEvalMetaData/12.mp4",
+      "risk": 0.19412066455042962,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1260",
+      "video_id": "AutoEvalMetaData/12.mp4",
+      "risk": 0.19412066455042962,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "870",
+      "video_id": "AutoEvalMetaData/12.mp4",
+      "risk": 0.40317689296353626,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "871",
+      "video_id": "AutoEvalMetaData/12.mp4",
+      "risk": 0.29828297767709655,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1055",
+      "video_id": "AutoEvalMetaData/120.mp4",
+      "risk": 0.33864808051024803,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1336",
+      "video_id": "AutoEvalMetaData/122.mp4",
+      "risk": 0.4556467403825241,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1337",
+      "video_id": "AutoEvalMetaData/122.mp4",
+      "risk": 0.3291795523729897,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1338",
+      "video_id": "AutoEvalMetaData/122.mp4",
+      "risk": 0.2995439440596308,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1339",
+      "video_id": "AutoEvalMetaData/122.mp4",
+      "risk": 0.2995439440596308,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "927",
+      "video_id": "AutoEvalMetaData/124.mp4",
+      "risk": 0.35205290292219255,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "928",
+      "video_id": "AutoEvalMetaData/124.mp4",
+      "risk": 0.35205290292219255,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "929",
+      "video_id": "AutoEvalMetaData/124.mp4",
+      "risk": 0.3252350150365477,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "930",
+      "video_id": "AutoEvalMetaData/124.mp4",
+      "risk": 0.32472009134529817,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "931",
+      "video_id": "AutoEvalMetaData/124.mp4",
+      "risk": 0.32472009134529817,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1266",
+      "video_id": "AutoEvalMetaData/129.mp4",
+      "risk": 0.3038129543601427,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1267",
+      "video_id": "AutoEvalMetaData/129.mp4",
+      "risk": 0.3038129543601427,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1096",
+      "video_id": "AutoEvalMetaData/13.mp4",
+      "risk": 0.42702295356395187,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1097",
+      "video_id": "AutoEvalMetaData/13.mp4",
+      "risk": 0.1943925249364637,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1091",
+      "video_id": "AutoEvalMetaData/130.mp4",
+      "risk": 0.2510153477842941,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "920",
+      "video_id": "AutoEvalMetaData/130.mp4",
+      "risk": 0.1490737502099187,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "921",
+      "video_id": "AutoEvalMetaData/130.mp4",
+      "risk": 0.1490737502099187,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": false,
+      "transition": "CW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1033",
+      "video_id": "AutoEvalMetaData/132.mp4",
+      "risk": 0.6863225205395844,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1034",
+      "video_id": "AutoEvalMetaData/132.mp4",
+      "risk": 0.3816910316296833,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "949",
+      "video_id": "AutoEvalMetaData/14.mp4",
+      "risk": 0.36488779844079283,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1073",
+      "video_id": "AutoEvalMetaData/141.mp4",
+      "risk": 0.3480618816078952,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1459",
+      "video_id": "AutoEvalMetaData/149.mp4",
+      "risk": 0.31237320109981703,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1460",
+      "video_id": "AutoEvalMetaData/149.mp4",
+      "risk": 0.31418939779628857,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1461",
+      "video_id": "AutoEvalMetaData/149.mp4",
+      "risk": 0.35678681155772307,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1462",
+      "video_id": "AutoEvalMetaData/149.mp4",
+      "risk": 0.2611180561259808,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": true,
+      "transition": "WC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "751",
+      "video_id": "AutoEvalMetaData/149.mp4",
+      "risk": 0.36653403383934996,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "752",
+      "video_id": "AutoEvalMetaData/149.mp4",
+      "risk": 0.5717750507993674,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "753",
+      "video_id": "AutoEvalMetaData/149.mp4",
+      "risk": 0.24737992669617323,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "754",
+      "video_id": "AutoEvalMetaData/149.mp4",
+      "risk": 0.40320903637659433,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1420",
+      "video_id": "AutoEvalMetaData/15.mp4",
+      "risk": 0.22188463693253638,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1421",
+      "video_id": "AutoEvalMetaData/15.mp4",
+      "risk": 0.44164846984046124,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "778",
+      "video_id": "AutoEvalMetaData/15.mp4",
+      "risk": 0.5158632003491689,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": false,
+      "transition": "CW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "779",
+      "video_id": "AutoEvalMetaData/15.mp4",
+      "risk": 0.46710951618466795,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1278",
+      "video_id": "AutoEvalMetaData/150.mp4",
+      "risk": 0.19412066455042962,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1279",
+      "video_id": "AutoEvalMetaData/150.mp4",
+      "risk": 0.19412066455042962,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1280",
+      "video_id": "AutoEvalMetaData/150.mp4",
+      "risk": 0.4701810576668706,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "918",
+      "video_id": "AutoEvalMetaData/152.mp4",
+      "risk": 0.5412157561217995,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": false,
+      "transition": "CW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1297",
+      "video_id": "AutoEvalMetaData/158.mp4",
+      "risk": 0.5327674227690334,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1441",
+      "video_id": "AutoEvalMetaData/158.mp4",
+      "risk": 0.34059415382945807,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1442",
+      "video_id": "AutoEvalMetaData/158.mp4",
+      "risk": 0.3153767901185797,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1074",
+      "video_id": "AutoEvalMetaData/159.mp4",
+      "risk": 0.4268450479930434,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1075",
+      "video_id": "AutoEvalMetaData/159.mp4",
+      "risk": 0.4595576842249145,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1323",
+      "video_id": "AutoEvalMetaData/16.mp4",
+      "risk": 0.37941999775334173,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1324",
+      "video_id": "AutoEvalMetaData/16.mp4",
+      "risk": 0.42285549853462545,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1325",
+      "video_id": "AutoEvalMetaData/16.mp4",
+      "risk": 0.42285549853462545,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1076",
+      "video_id": "AutoEvalMetaData/161.mp4",
+      "risk": 0.162872515395442,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1037",
+      "video_id": "AutoEvalMetaData/17.mp4",
+      "risk": 0.39259346006803564,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1240",
+      "video_id": "AutoEvalMetaData/171.mp4",
+      "risk": 0.17011804507245873,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1241",
+      "video_id": "AutoEvalMetaData/171.mp4",
+      "risk": 0.22765858401690367,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1242",
+      "video_id": "AutoEvalMetaData/171.mp4",
+      "risk": 0.18116170296997164,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "802",
+      "video_id": "AutoEvalMetaData/171.mp4",
+      "risk": 0.3477103688945873,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "803",
+      "video_id": "AutoEvalMetaData/171.mp4",
+      "risk": 0.6072645868372956,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1366",
+      "video_id": "AutoEvalMetaData/172.mp4",
+      "risk": 0.23252335119090198,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1367",
+      "video_id": "AutoEvalMetaData/172.mp4",
+      "risk": 0.2970343347822559,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1368",
+      "video_id": "AutoEvalMetaData/172.mp4",
+      "risk": 0.3370904081075013,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1369",
+      "video_id": "AutoEvalMetaData/172.mp4",
+      "risk": 0.36602064249060634,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "737",
+      "video_id": "AutoEvalMetaData/176.mp4",
+      "risk": 0.3610836447196512,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "738",
+      "video_id": "AutoEvalMetaData/176.mp4",
+      "risk": 0.14658032854439543,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "739",
+      "video_id": "AutoEvalMetaData/176.mp4",
+      "risk": 0.5320274368217499,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "740",
+      "video_id": "AutoEvalMetaData/176.mp4",
+      "risk": 0.25739020082089115,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "886",
+      "video_id": "AutoEvalMetaData/176.mp4",
+      "risk": 0.3868460420902751,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "887",
+      "video_id": "AutoEvalMetaData/176.mp4",
+      "risk": 0.32706960052842887,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "888",
+      "video_id": "AutoEvalMetaData/176.mp4",
+      "risk": 0.5779494313253443,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "889",
+      "video_id": "AutoEvalMetaData/176.mp4",
+      "risk": 0.3028419339960381,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "903",
+      "video_id": "AutoEvalMetaData/181.mp4",
+      "risk": 0.46799040261134334,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "913",
+      "video_id": "AutoEvalMetaData/185.mp4",
+      "risk": 0.3680873955200565,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "914",
+      "video_id": "AutoEvalMetaData/185.mp4",
+      "risk": 0.2678251434043274,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "915",
+      "video_id": "AutoEvalMetaData/185.mp4",
+      "risk": 0.2678251434043274,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "916",
+      "video_id": "AutoEvalMetaData/185.mp4",
+      "risk": 0.2678251434043274,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1306",
+      "video_id": "AutoEvalMetaData/187.mp4",
+      "risk": 0.19412066455042962,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1307",
+      "video_id": "AutoEvalMetaData/187.mp4",
+      "risk": 0.4326872323547264,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "712",
+      "video_id": "AutoEvalMetaData/187.mp4",
+      "risk": 0.4419126035759101,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "713",
+      "video_id": "AutoEvalMetaData/187.mp4",
+      "risk": 0.35978764380479755,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "714",
+      "video_id": "AutoEvalMetaData/187.mp4",
+      "risk": 0.3562773727648417,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "715",
+      "video_id": "AutoEvalMetaData/187.mp4",
+      "risk": 0.3517862166527083,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "716",
+      "video_id": "AutoEvalMetaData/187.mp4",
+      "risk": 0.380056979161895,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "717",
+      "video_id": "AutoEvalMetaData/187.mp4",
+      "risk": 0.4230374243504559,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1069",
+      "video_id": "AutoEvalMetaData/19.mp4",
+      "risk": 0.41642058749028626,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1070",
+      "video_id": "AutoEvalMetaData/19.mp4",
+      "risk": 0.4001529470269834,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "919",
+      "video_id": "AutoEvalMetaData/19.mp4",
+      "risk": 0.4985863545451902,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1038",
+      "video_id": "AutoEvalMetaData/192.mp4",
+      "risk": 0.3796537996621986,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1039",
+      "video_id": "AutoEvalMetaData/192.mp4",
+      "risk": 0.38424474600462366,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1404",
+      "video_id": "AutoEvalMetaData/192.mp4",
+      "risk": 0.47924456162592943,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": true,
+      "transition": "WC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1405",
+      "video_id": "AutoEvalMetaData/192.mp4",
+      "risk": 0.17321113068144478,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1406",
+      "video_id": "AutoEvalMetaData/192.mp4",
+      "risk": 0.31168180073934365,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1407",
+      "video_id": "AutoEvalMetaData/192.mp4",
+      "risk": 0.30137949811004655,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1418",
+      "video_id": "AutoEvalMetaData/194.mp4",
+      "risk": 0.32878909451268734,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1419",
+      "video_id": "AutoEvalMetaData/194.mp4",
+      "risk": 0.19772756444249667,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1454",
+      "video_id": "AutoEvalMetaData/195.mp4",
+      "risk": 0.3870005775843118,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1455",
+      "video_id": "AutoEvalMetaData/195.mp4",
+      "risk": 0.271440325357054,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1456",
+      "video_id": "AutoEvalMetaData/195.mp4",
+      "risk": 0.3849582856611597,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1457",
+      "video_id": "AutoEvalMetaData/195.mp4",
+      "risk": 0.2367007752049162,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1458",
+      "video_id": "AutoEvalMetaData/195.mp4",
+      "risk": 0.18041639441753468,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1049",
+      "video_id": "AutoEvalMetaData/198.mp4",
+      "risk": 0.4052422823765211,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1315",
+      "video_id": "AutoEvalMetaData/201.mp4",
+      "risk": 0.4186738141222374,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1316",
+      "video_id": "AutoEvalMetaData/201.mp4",
+      "risk": 0.6048461290417017,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1317",
+      "video_id": "AutoEvalMetaData/201.mp4",
+      "risk": 0.3518899264310027,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "923",
+      "video_id": "AutoEvalMetaData/203.mp4",
+      "risk": 0.3430932774596181,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "924",
+      "video_id": "AutoEvalMetaData/203.mp4",
+      "risk": 0.3430932774596181,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "925",
+      "video_id": "AutoEvalMetaData/203.mp4",
+      "risk": 0.3430932774596181,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "926",
+      "video_id": "AutoEvalMetaData/203.mp4",
+      "risk": 0.3430932774596181,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1036",
+      "video_id": "AutoEvalMetaData/204.mp4",
+      "risk": 0.3345979811448682,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "872",
+      "video_id": "AutoEvalMetaData/214.mp4",
+      "risk": 0.5559202514374824,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "873",
+      "video_id": "AutoEvalMetaData/214.mp4",
+      "risk": 0.2699435536730227,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "874",
+      "video_id": "AutoEvalMetaData/214.mp4",
+      "risk": 0.40211516489840743,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "875",
+      "video_id": "AutoEvalMetaData/214.mp4",
+      "risk": 0.4150599167527829,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "876",
+      "video_id": "AutoEvalMetaData/214.mp4",
+      "risk": 0.4092665764282767,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "792",
+      "video_id": "AutoEvalMetaData/215.mp4",
+      "risk": 0.2651050783256323,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "793",
+      "video_id": "AutoEvalMetaData/215.mp4",
+      "risk": 0.24774192034556664,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "794",
+      "video_id": "AutoEvalMetaData/215.mp4",
+      "risk": 0.47750474795018827,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "795",
+      "video_id": "AutoEvalMetaData/215.mp4",
+      "risk": 0.5281504719020745,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1281",
+      "video_id": "AutoEvalMetaData/217.mp4",
+      "risk": 0.1528209992946579,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": true,
+      "transition": "WC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1282",
+      "video_id": "AutoEvalMetaData/217.mp4",
+      "risk": 0.5421135897559234,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1283",
+      "video_id": "AutoEvalMetaData/217.mp4",
+      "risk": 0.16262749130263274,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1410",
+      "video_id": "AutoEvalMetaData/219.mp4",
+      "risk": 0.517764886271113,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1411",
+      "video_id": "AutoEvalMetaData/219.mp4",
+      "risk": 0.2549442362377562,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1412",
+      "video_id": "AutoEvalMetaData/219.mp4",
+      "risk": 0.2549442362377562,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": true,
+      "transition": "WC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1413",
+      "video_id": "AutoEvalMetaData/219.mp4",
+      "risk": 0.2549442362377562,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1414",
+      "video_id": "AutoEvalMetaData/219.mp4",
+      "risk": 0.2549442362377562,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1463",
+      "video_id": "AutoEvalMetaData/224.mp4",
+      "risk": 0.1672696360147921,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1464",
+      "video_id": "AutoEvalMetaData/224.mp4",
+      "risk": 0.25125713649953574,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1101",
+      "video_id": "AutoEvalMetaData/226.mp4",
+      "risk": 0.4670064838853899,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1102",
+      "video_id": "AutoEvalMetaData/226.mp4",
+      "risk": 0.48302588434941796,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1043",
+      "video_id": "AutoEvalMetaData/227.mp4",
+      "risk": 0.3914280986547495,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "890",
+      "video_id": "AutoEvalMetaData/229.mp4",
+      "risk": 0.3216620996345282,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "891",
+      "video_id": "AutoEvalMetaData/229.mp4",
+      "risk": 0.1507269446015526,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "892",
+      "video_id": "AutoEvalMetaData/229.mp4",
+      "risk": 0.341106537688591,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "893",
+      "video_id": "AutoEvalMetaData/229.mp4",
+      "risk": 0.27206473635145,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1392",
+      "video_id": "AutoEvalMetaData/23.mp4",
+      "risk": 0.5614515899627358,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1393",
+      "video_id": "AutoEvalMetaData/23.mp4",
+      "risk": 0.15276016521400437,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "804",
+      "video_id": "AutoEvalMetaData/23.mp4",
+      "risk": 0.3926300160874552,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "805",
+      "video_id": "AutoEvalMetaData/23.mp4",
+      "risk": 0.28623015745914426,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "806",
+      "video_id": "AutoEvalMetaData/23.mp4",
+      "risk": 0.28623015745914426,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "807",
+      "video_id": "AutoEvalMetaData/23.mp4",
+      "risk": 0.3926300160874552,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "808",
+      "video_id": "AutoEvalMetaData/23.mp4",
+      "risk": 0.5190450423206221,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1378",
+      "video_id": "AutoEvalMetaData/231.mp4",
+      "risk": 0.19983448176251084,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1379",
+      "video_id": "AutoEvalMetaData/231.mp4",
+      "risk": 0.2161062913558049,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1380",
+      "video_id": "AutoEvalMetaData/231.mp4",
+      "risk": 0.19983448176251084,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1381",
+      "video_id": "AutoEvalMetaData/231.mp4",
+      "risk": 0.19983448176251084,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1382",
+      "video_id": "AutoEvalMetaData/231.mp4",
+      "risk": 0.19506952962133622,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1445",
+      "video_id": "AutoEvalMetaData/233.mp4",
+      "risk": 0.5933686212674145,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1340",
+      "video_id": "AutoEvalMetaData/234.mp4",
+      "risk": 0.3550244072154609,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1341",
+      "video_id": "AutoEvalMetaData/234.mp4",
+      "risk": 0.3550244072154609,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": true,
+      "transition": "WC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1342",
+      "video_id": "AutoEvalMetaData/234.mp4",
+      "risk": 0.3550244072154609,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1467",
+      "video_id": "AutoEvalMetaData/234.mp4",
+      "risk": 0.15784777890666793,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "877",
+      "video_id": "AutoEvalMetaData/234.mp4",
+      "risk": 0.44918472432910644,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "878",
+      "video_id": "AutoEvalMetaData/234.mp4",
+      "risk": 0.14022797312238744,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": false,
+      "transition": "CW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1040",
+      "video_id": "AutoEvalMetaData/235.mp4",
+      "risk": 0.5145949938377784,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1041",
+      "video_id": "AutoEvalMetaData/235.mp4",
+      "risk": 0.3167858561136508,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "869",
+      "video_id": "AutoEvalMetaData/236.mp4",
+      "risk": 0.3020118942899378,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1433",
+      "video_id": "AutoEvalMetaData/241.mp4",
+      "risk": 0.3982100611039362,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "774",
+      "video_id": "AutoEvalMetaData/242.mp4",
+      "risk": 0.5026369069824026,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "775",
+      "video_id": "AutoEvalMetaData/242.mp4",
+      "risk": 0.2359741901150382,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "776",
+      "video_id": "AutoEvalMetaData/242.mp4",
+      "risk": 0.2744818593447404,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "777",
+      "video_id": "AutoEvalMetaData/242.mp4",
+      "risk": 0.49327257238465044,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "858",
+      "video_id": "AutoEvalMetaData/242.mp4",
+      "risk": 0.34856933396610534,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "859",
+      "video_id": "AutoEvalMetaData/242.mp4",
+      "risk": 0.4708130175900924,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1044",
+      "video_id": "AutoEvalMetaData/243.mp4",
+      "risk": 0.35047871551488124,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1045",
+      "video_id": "AutoEvalMetaData/243.mp4",
+      "risk": 0.2141758018801458,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": true,
+      "transition": "WC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1046",
+      "video_id": "AutoEvalMetaData/243.mp4",
+      "risk": 0.21658688022839984,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1434",
+      "video_id": "AutoEvalMetaData/243.mp4",
+      "risk": 0.17548075680871786,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1435",
+      "video_id": "AutoEvalMetaData/243.mp4",
+      "risk": 0.28529682537275725,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1436",
+      "video_id": "AutoEvalMetaData/243.mp4",
+      "risk": 0.25962485277286906,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1437",
+      "video_id": "AutoEvalMetaData/243.mp4",
+      "risk": 0.2740413455740074,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "866",
+      "video_id": "AutoEvalMetaData/247.mp4",
+      "risk": 0.3298515465586229,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "867",
+      "video_id": "AutoEvalMetaData/247.mp4",
+      "risk": 0.40958389230047193,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "868",
+      "video_id": "AutoEvalMetaData/247.mp4",
+      "risk": 0.5389389799049966,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "899",
+      "video_id": "AutoEvalMetaData/249.mp4",
+      "risk": 0.27643526955157505,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "900",
+      "video_id": "AutoEvalMetaData/249.mp4",
+      "risk": 0.28742496181412747,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "901",
+      "video_id": "AutoEvalMetaData/249.mp4",
+      "risk": 0.3284992389258009,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "902",
+      "video_id": "AutoEvalMetaData/249.mp4",
+      "risk": 0.1472885938906615,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1311",
+      "video_id": "AutoEvalMetaData/250.mp4",
+      "risk": 0.5714194362484599,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "950",
+      "video_id": "AutoEvalMetaData/250.mp4",
+      "risk": 0.2102807151478994,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "951",
+      "video_id": "AutoEvalMetaData/250.mp4",
+      "risk": 0.5185781672422239,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "799",
+      "video_id": "AutoEvalMetaData/252.mp4",
+      "risk": 0.21231923502135563,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "800",
+      "video_id": "AutoEvalMetaData/252.mp4",
+      "risk": 0.368724891588972,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "801",
+      "video_id": "AutoEvalMetaData/252.mp4",
+      "risk": 0.3163457911493634,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": true,
+      "transition": "WC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1035",
+      "video_id": "AutoEvalMetaData/254.mp4",
+      "risk": 0.26101769270867253,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1295",
+      "video_id": "AutoEvalMetaData/254.mp4",
+      "risk": 0.19003769900680662,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1296",
+      "video_id": "AutoEvalMetaData/254.mp4",
+      "risk": 0.16135867199317533,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1440",
+      "video_id": "AutoEvalMetaData/254.mp4",
+      "risk": 0.30397632713428524,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1100",
+      "video_id": "AutoEvalMetaData/255.mp4",
+      "risk": 0.6991317401522037,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1438",
+      "video_id": "AutoEvalMetaData/255.mp4",
+      "risk": 0.23362070322838793,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1439",
+      "video_id": "AutoEvalMetaData/255.mp4",
+      "risk": 0.38978222827671266,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1284",
+      "video_id": "AutoEvalMetaData/256.mp4",
+      "risk": 0.7930806726510675,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1285",
+      "video_id": "AutoEvalMetaData/256.mp4",
+      "risk": 0.7930806726510675,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1286",
+      "video_id": "AutoEvalMetaData/256.mp4",
+      "risk": 0.7930806726510675,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1287",
+      "video_id": "AutoEvalMetaData/256.mp4",
+      "risk": 0.7930806726510675,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "847",
+      "video_id": "AutoEvalMetaData/257.mp4",
+      "risk": 0.4351104537805071,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "745",
+      "video_id": "AutoEvalMetaData/258.mp4",
+      "risk": 0.6633352673804411,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "746",
+      "video_id": "AutoEvalMetaData/258.mp4",
+      "risk": 0.7527566486221459,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "747",
+      "video_id": "AutoEvalMetaData/258.mp4",
+      "risk": 0.5655389286067771,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "748",
+      "video_id": "AutoEvalMetaData/258.mp4",
+      "risk": 0.3306323953609956,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "749",
+      "video_id": "AutoEvalMetaData/258.mp4",
+      "risk": 0.5636401360512675,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1408",
+      "video_id": "AutoEvalMetaData/259.mp4",
+      "risk": 0.4482954519027897,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1409",
+      "video_id": "AutoEvalMetaData/259.mp4",
+      "risk": 0.3269212965405851,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "917",
+      "video_id": "AutoEvalMetaData/26.mp4",
+      "risk": 0.41635680556114824,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1095",
+      "video_id": "AutoEvalMetaData/260.mp4",
+      "risk": 0.1743513509583691,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1331",
+      "video_id": "AutoEvalMetaData/263.mp4",
+      "risk": 0.3703814676910543,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1332",
+      "video_id": "AutoEvalMetaData/263.mp4",
+      "risk": 0.26765936840098054,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1333",
+      "video_id": "AutoEvalMetaData/263.mp4",
+      "risk": 0.3048006430824378,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1334",
+      "video_id": "AutoEvalMetaData/263.mp4",
+      "risk": 0.22517239781285972,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1335",
+      "video_id": "AutoEvalMetaData/263.mp4",
+      "risk": 0.22517239781285972,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1465",
+      "video_id": "AutoEvalMetaData/269.mp4",
+      "risk": 0.30413471655047775,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1466",
+      "video_id": "AutoEvalMetaData/269.mp4",
+      "risk": 0.31260745115612565,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": true,
+      "transition": "WC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "733",
+      "video_id": "AutoEvalMetaData/269.mp4",
+      "risk": 0.30413471655047775,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "734",
+      "video_id": "AutoEvalMetaData/269.mp4",
+      "risk": 0.32943594896333617,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1357",
+      "video_id": "AutoEvalMetaData/272.mp4",
+      "risk": 0.21285559855187158,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1358",
+      "video_id": "AutoEvalMetaData/272.mp4",
+      "risk": 0.18552995492328841,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1359",
+      "video_id": "AutoEvalMetaData/272.mp4",
+      "risk": 0.22269687631064194,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1360",
+      "video_id": "AutoEvalMetaData/272.mp4",
+      "risk": 0.22269687631064194,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1243",
+      "video_id": "AutoEvalMetaData/274.mp4",
+      "risk": 0.23432060805108643,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1244",
+      "video_id": "AutoEvalMetaData/274.mp4",
+      "risk": 0.36604570828301086,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1372",
+      "video_id": "AutoEvalMetaData/274.mp4",
+      "risk": 0.22095787140071954,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1373",
+      "video_id": "AutoEvalMetaData/274.mp4",
+      "risk": 0.19089194584345756,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1308",
+      "video_id": "AutoEvalMetaData/275.mp4",
+      "risk": 0.19412066455042962,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1309",
+      "video_id": "AutoEvalMetaData/275.mp4",
+      "risk": 0.4751507336578264,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1310",
+      "video_id": "AutoEvalMetaData/275.mp4",
+      "risk": 0.19412066455042962,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1424",
+      "video_id": "AutoEvalMetaData/279.mp4",
+      "risk": 0.219571375988949,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1425",
+      "video_id": "AutoEvalMetaData/279.mp4",
+      "risk": 0.3201305404632664,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1426",
+      "video_id": "AutoEvalMetaData/279.mp4",
+      "risk": 0.26599864009232116,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "882",
+      "video_id": "AutoEvalMetaData/280.mp4",
+      "risk": 0.34155275458954193,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "883",
+      "video_id": "AutoEvalMetaData/280.mp4",
+      "risk": 0.3559807462075719,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1352",
+      "video_id": "AutoEvalMetaData/282.mp4",
+      "risk": 0.28968242383342074,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1353",
+      "video_id": "AutoEvalMetaData/282.mp4",
+      "risk": 0.46436731015754434,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1427",
+      "video_id": "AutoEvalMetaData/286.mp4",
+      "risk": 0.5356575575132387,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1428",
+      "video_id": "AutoEvalMetaData/286.mp4",
+      "risk": 0.2314290879616171,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1429",
+      "video_id": "AutoEvalMetaData/286.mp4",
+      "risk": 0.3170473733263179,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1430",
+      "video_id": "AutoEvalMetaData/286.mp4",
+      "risk": 0.27987068931956127,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1431",
+      "video_id": "AutoEvalMetaData/286.mp4",
+      "risk": 0.27987068931956127,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1432",
+      "video_id": "AutoEvalMetaData/286.mp4",
+      "risk": 0.27987068931956127,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1031",
+      "video_id": "AutoEvalMetaData/29.mp4",
+      "risk": 0.4286889288778065,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1032",
+      "video_id": "AutoEvalMetaData/29.mp4",
+      "risk": 0.5692726795870948,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1065",
+      "video_id": "AutoEvalMetaData/290.mp4",
+      "risk": 0.40174267868144786,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "844",
+      "video_id": "AutoEvalMetaData/291.mp4",
+      "risk": 0.3527156529412923,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "750",
+      "video_id": "AutoEvalMetaData/292.mp4",
+      "risk": 0.40802653441711656,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "742",
+      "video_id": "AutoEvalMetaData/294.mp4",
+      "risk": 0.5169220713285526,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "743",
+      "video_id": "AutoEvalMetaData/294.mp4",
+      "risk": 0.28714797795548974,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "744",
+      "video_id": "AutoEvalMetaData/294.mp4",
+      "risk": 0.3635851742707798,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "787",
+      "video_id": "AutoEvalMetaData/30.mp4",
+      "risk": 0.23668698488312961,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "788",
+      "video_id": "AutoEvalMetaData/30.mp4",
+      "risk": 0.2090766412416875,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "789",
+      "video_id": "AutoEvalMetaData/30.mp4",
+      "risk": 0.2934344154314313,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "790",
+      "video_id": "AutoEvalMetaData/30.mp4",
+      "risk": 0.2962594294134833,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "791",
+      "video_id": "AutoEvalMetaData/30.mp4",
+      "risk": 0.1996306390733228,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1326",
+      "video_id": "AutoEvalMetaData/305.mp4",
+      "risk": 0.22527050947268384,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1327",
+      "video_id": "AutoEvalMetaData/305.mp4",
+      "risk": 0.29964898025909065,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "945",
+      "video_id": "AutoEvalMetaData/305.mp4",
+      "risk": 0.3750038272136657,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "946",
+      "video_id": "AutoEvalMetaData/305.mp4",
+      "risk": 0.8613659790032783,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1107",
+      "video_id": "AutoEvalMetaData/308.mp4",
+      "risk": 0.46245639498658714,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1108",
+      "video_id": "AutoEvalMetaData/308.mp4",
+      "risk": 0.15672218275249,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1298",
+      "video_id": "AutoEvalMetaData/308.mp4",
+      "risk": 0.2777635873506716,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1299",
+      "video_id": "AutoEvalMetaData/308.mp4",
+      "risk": 0.4101243133172436,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1300",
+      "video_id": "AutoEvalMetaData/308.mp4",
+      "risk": 0.30230075907593906,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "904",
+      "video_id": "AutoEvalMetaData/308.mp4",
+      "risk": 0.5602735025705035,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "905",
+      "video_id": "AutoEvalMetaData/308.mp4",
+      "risk": 0.46245639498658714,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "906",
+      "video_id": "AutoEvalMetaData/308.mp4",
+      "risk": 0.15672218275249,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "907",
+      "video_id": "AutoEvalMetaData/308.mp4",
+      "risk": 0.21474336544138695,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1254",
+      "video_id": "AutoEvalMetaData/309.mp4",
+      "risk": 0.34682394147880935,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1255",
+      "video_id": "AutoEvalMetaData/309.mp4",
+      "risk": 0.34682394147880935,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "922",
+      "video_id": "AutoEvalMetaData/309.mp4",
+      "risk": 0.29457701361911814,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1061",
+      "video_id": "AutoEvalMetaData/31.mp4",
+      "risk": 0.4911633719828139,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1062",
+      "video_id": "AutoEvalMetaData/31.mp4",
+      "risk": 0.476138382042052,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1397",
+      "video_id": "AutoEvalMetaData/31.mp4",
+      "risk": 0.45404661117730705,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1398",
+      "video_id": "AutoEvalMetaData/31.mp4",
+      "risk": 0.2960274156231311,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1399",
+      "video_id": "AutoEvalMetaData/31.mp4",
+      "risk": 0.45404661117730705,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1029",
+      "video_id": "AutoEvalMetaData/311.mp4",
+      "risk": 0.547753362928101,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1060",
+      "video_id": "AutoEvalMetaData/32.mp4",
+      "risk": 0.45801354238806147,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "848",
+      "video_id": "AutoEvalMetaData/32.mp4",
+      "risk": 0.4499755546528451,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "849",
+      "video_id": "AutoEvalMetaData/32.mp4",
+      "risk": 0.3736921872280239,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1064",
+      "video_id": "AutoEvalMetaData/320.mp4",
+      "risk": 0.37863500726243815,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1446",
+      "video_id": "AutoEvalMetaData/320.mp4",
+      "risk": 0.4027326185343222,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1447",
+      "video_id": "AutoEvalMetaData/320.mp4",
+      "risk": 0.29290206387187845,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": true,
+      "transition": "WC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1448",
+      "video_id": "AutoEvalMetaData/320.mp4",
+      "risk": 0.38215370677195,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1449",
+      "video_id": "AutoEvalMetaData/320.mp4",
+      "risk": 0.29290206387187845,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1450",
+      "video_id": "AutoEvalMetaData/320.mp4",
+      "risk": 0.29290206387187845,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "942",
+      "video_id": "AutoEvalMetaData/322.mp4",
+      "risk": 0.25918163648277115,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "943",
+      "video_id": "AutoEvalMetaData/322.mp4",
+      "risk": 0.44169349345803327,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "944",
+      "video_id": "AutoEvalMetaData/322.mp4",
+      "risk": 0.3741210506789244,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "718",
+      "video_id": "AutoEvalMetaData/326.mp4",
+      "risk": 0.2536074942752167,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "719",
+      "video_id": "AutoEvalMetaData/326.mp4",
+      "risk": 0.48533602344644605,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "720",
+      "video_id": "AutoEvalMetaData/326.mp4",
+      "risk": 0.2828111425840154,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "721",
+      "video_id": "AutoEvalMetaData/326.mp4",
+      "risk": 0.6818046364766276,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "722",
+      "video_id": "AutoEvalMetaData/326.mp4",
+      "risk": 0.32181613899841577,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "723",
+      "video_id": "AutoEvalMetaData/326.mp4",
+      "risk": 0.4017086620406127,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1093",
+      "video_id": "AutoEvalMetaData/35.mp4",
+      "risk": 0.37691593701999354,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1092",
+      "video_id": "AutoEvalMetaData/37.mp4",
+      "risk": 0.5583557827056581,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "780",
+      "video_id": "AutoEvalMetaData/4.mp4",
+      "risk": 0.536491291331847,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "781",
+      "video_id": "AutoEvalMetaData/4.mp4",
+      "risk": 0.32297466257489094,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "782",
+      "video_id": "AutoEvalMetaData/4.mp4",
+      "risk": 0.46004614353844214,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "783",
+      "video_id": "AutoEvalMetaData/4.mp4",
+      "risk": 0.35756732854241646,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "784",
+      "video_id": "AutoEvalMetaData/4.mp4",
+      "risk": 0.3370276906353296,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1089",
+      "video_id": "AutoEvalMetaData/40.mp4",
+      "risk": 0.2549322100554467,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1090",
+      "video_id": "AutoEvalMetaData/40.mp4",
+      "risk": 0.266004198592557,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "697",
+      "video_id": "AutoEvalMetaData/42.mp4",
+      "risk": 0.33655142736273924,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "698",
+      "video_id": "AutoEvalMetaData/42.mp4",
+      "risk": 0.40254796039264434,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "699",
+      "video_id": "AutoEvalMetaData/42.mp4",
+      "risk": 0.2831240038549466,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "700",
+      "video_id": "AutoEvalMetaData/42.mp4",
+      "risk": 0.36346266862860904,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "701",
+      "video_id": "AutoEvalMetaData/42.mp4",
+      "risk": 0.4135871362102946,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "702",
+      "video_id": "AutoEvalMetaData/42.mp4",
+      "risk": 0.4416456797739304,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "703",
+      "video_id": "AutoEvalMetaData/42.mp4",
+      "risk": 0.5254134215531391,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "704",
+      "video_id": "AutoEvalMetaData/42.mp4",
+      "risk": 0.41847404947986633,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "705",
+      "video_id": "AutoEvalMetaData/42.mp4",
+      "risk": 0.3912983667334817,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "706",
+      "video_id": "AutoEvalMetaData/42.mp4",
+      "risk": 0.5266976335346433,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "707",
+      "video_id": "AutoEvalMetaData/42.mp4",
+      "risk": 0.4514872895043883,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": false,
+      "transition": "CW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "708",
+      "video_id": "AutoEvalMetaData/42.mp4",
+      "risk": 0.5476694070525158,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "852",
+      "video_id": "AutoEvalMetaData/42.mp4",
+      "risk": 0.20104306930307705,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "853",
+      "video_id": "AutoEvalMetaData/42.mp4",
+      "risk": 0.22981619734975892,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "854",
+      "video_id": "AutoEvalMetaData/42.mp4",
+      "risk": 0.3245700099539247,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1292",
+      "video_id": "AutoEvalMetaData/43.mp4",
+      "risk": 0.24502679344019165,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1293",
+      "video_id": "AutoEvalMetaData/43.mp4",
+      "risk": 0.25781877397703207,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1294",
+      "video_id": "AutoEvalMetaData/43.mp4",
+      "risk": 0.34682394147880935,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "755",
+      "video_id": "AutoEvalMetaData/44.mp4",
+      "risk": 0.2920697499274293,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "756",
+      "video_id": "AutoEvalMetaData/44.mp4",
+      "risk": 0.460250858557356,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1361",
+      "video_id": "AutoEvalMetaData/45.mp4",
+      "risk": 0.26867724130476145,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1354",
+      "video_id": "AutoEvalMetaData/48.mp4",
+      "risk": 0.23622377715216364,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1355",
+      "video_id": "AutoEvalMetaData/48.mp4",
+      "risk": 0.3473775360778926,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1356",
+      "video_id": "AutoEvalMetaData/48.mp4",
+      "risk": 0.23622377715216364,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1103",
+      "video_id": "AutoEvalMetaData/49.mp4",
+      "risk": 0.3299639370890573,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1104",
+      "video_id": "AutoEvalMetaData/49.mp4",
+      "risk": 0.39185731245302197,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1271",
+      "video_id": "AutoEvalMetaData/49.mp4",
+      "risk": 0.25671339740949084,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1272",
+      "video_id": "AutoEvalMetaData/49.mp4",
+      "risk": 0.34682394147880935,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1343",
+      "video_id": "AutoEvalMetaData/49.mp4",
+      "risk": 0.39419468748918274,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1344",
+      "video_id": "AutoEvalMetaData/49.mp4",
+      "risk": 0.2515070726089439,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": true,
+      "transition": "WC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1345",
+      "video_id": "AutoEvalMetaData/49.mp4",
+      "risk": 0.2743077986108385,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1346",
+      "video_id": "AutoEvalMetaData/49.mp4",
+      "risk": 0.18379434677764558,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1347",
+      "video_id": "AutoEvalMetaData/49.mp4",
+      "risk": 0.18379434677764558,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1348",
+      "video_id": "AutoEvalMetaData/49.mp4",
+      "risk": 0.2108699135712441,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1047",
+      "video_id": "AutoEvalMetaData/53.mp4",
+      "risk": 0.4215200941021188,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1094",
+      "video_id": "AutoEvalMetaData/54.mp4",
+      "risk": 0.269383897267344,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1374",
+      "video_id": "AutoEvalMetaData/59.mp4",
+      "risk": 0.2878916244415679,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1375",
+      "video_id": "AutoEvalMetaData/59.mp4",
+      "risk": 0.23060077431903908,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1376",
+      "video_id": "AutoEvalMetaData/59.mp4",
+      "risk": 0.3244953895816454,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1377",
+      "video_id": "AutoEvalMetaData/59.mp4",
+      "risk": 0.3244953895816454,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "796",
+      "video_id": "AutoEvalMetaData/59.mp4",
+      "risk": 0.2927853451942561,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1030",
+      "video_id": "AutoEvalMetaData/60.mp4",
+      "risk": 0.23075926434010827,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": false,
+      "transition": "CW",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "845",
+      "video_id": "AutoEvalMetaData/61.mp4",
+      "risk": 0.29148793461603256,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "846",
+      "video_id": "AutoEvalMetaData/61.mp4",
+      "risk": 0.29148793461603256,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1071",
+      "video_id": "AutoEvalMetaData/62.mp4",
+      "risk": 0.3034263923327027,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1072",
+      "video_id": "AutoEvalMetaData/62.mp4",
+      "risk": 0.41847471936183944,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "741",
+      "video_id": "AutoEvalMetaData/62.mp4",
+      "risk": 0.3869531243243195,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1261",
+      "video_id": "AutoEvalMetaData/64.mp4",
+      "risk": 0.4101243133172436,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1262",
+      "video_id": "AutoEvalMetaData/64.mp4",
+      "risk": 0.31844604135676474,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1263",
+      "video_id": "AutoEvalMetaData/64.mp4",
+      "risk": 0.2966594909395128,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1264",
+      "video_id": "AutoEvalMetaData/64.mp4",
+      "risk": 0.28882694279164167,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1265",
+      "video_id": "AutoEvalMetaData/64.mp4",
+      "risk": 0.28882694279164167,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1058",
+      "video_id": "AutoEvalMetaData/66.mp4",
+      "risk": 0.31579381130185835,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1059",
+      "video_id": "AutoEvalMetaData/66.mp4",
+      "risk": 0.3179228169178403,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1042",
+      "video_id": "AutoEvalMetaData/67.mp4",
+      "risk": 0.4339237334565189,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "879",
+      "video_id": "AutoEvalMetaData/68.mp4",
+      "risk": 0.3231394653960477,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "880",
+      "video_id": "AutoEvalMetaData/68.mp4",
+      "risk": 0.5226239268185694,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "881",
+      "video_id": "AutoEvalMetaData/68.mp4",
+      "risk": 0.14022797312238744,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "850",
+      "video_id": "AutoEvalMetaData/7.mp4",
+      "risk": 0.3211684512268262,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "851",
+      "video_id": "AutoEvalMetaData/7.mp4",
+      "risk": 0.20972201035881957,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1079",
+      "video_id": "AutoEvalMetaData/72.mp4",
+      "risk": 0.48382931699994713,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1080",
+      "video_id": "AutoEvalMetaData/72.mp4",
+      "risk": 0.3225596867504038,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1318",
+      "video_id": "AutoEvalMetaData/72.mp4",
+      "risk": 0.27303755386371414,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1099",
+      "video_id": "AutoEvalMetaData/79.mp4",
+      "risk": 0.4678844814796835,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1068",
+      "video_id": "AutoEvalMetaData/80.mp4",
+      "risk": 0.2441877685081233,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1050",
+      "video_id": "AutoEvalMetaData/82.mp4",
+      "risk": 0.1976844167097718,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1056",
+      "video_id": "AutoEvalMetaData/84.mp4",
+      "risk": 0.6534679240514673,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "932",
+      "video_id": "AutoEvalMetaData/87.mp4",
+      "risk": 0.19367119677133465,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "933",
+      "video_id": "AutoEvalMetaData/87.mp4",
+      "risk": 0.19367119677133465,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1451",
+      "video_id": "AutoEvalMetaData/88.mp4",
+      "risk": 0.2982717722338678,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1452",
+      "video_id": "AutoEvalMetaData/88.mp4",
+      "risk": 0.21363318612580878,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1453",
+      "video_id": "AutoEvalMetaData/88.mp4",
+      "risk": 0.6072645868372956,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1268",
+      "video_id": "AutoEvalMetaData/89.mp4",
+      "risk": 0.3927702368027444,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1269",
+      "video_id": "AutoEvalMetaData/89.mp4",
+      "risk": 0.5888697582296694,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1270",
+      "video_id": "AutoEvalMetaData/89.mp4",
+      "risk": 0.3401732095969571,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "947",
+      "video_id": "AutoEvalMetaData/89.mp4",
+      "risk": 0.2609221075478374,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "948",
+      "video_id": "AutoEvalMetaData/89.mp4",
+      "risk": 0.5817114284424366,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1328",
+      "video_id": "AutoEvalMetaData/9.mp4",
+      "risk": 0.18996141759597407,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1329",
+      "video_id": "AutoEvalMetaData/9.mp4",
+      "risk": 0.23231178224066948,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1330",
+      "video_id": "AutoEvalMetaData/9.mp4",
+      "risk": 0.23231178224066948,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1083",
+      "video_id": "AutoEvalMetaData/94.mp4",
+      "risk": 0.2206031419263728,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1401",
+      "video_id": "AutoEvalMetaData/94.mp4",
+      "risk": 0.4352259051086942,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1402",
+      "video_id": "AutoEvalMetaData/94.mp4",
+      "risk": 0.2946951460621188,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "1403",
+      "video_id": "AutoEvalMetaData/94.mp4",
+      "risk": 0.3062638184547639,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OCR"
+    },
+    {
+      "qa_id": "757",
+      "video_id": "AutoEvalMetaData/95.mp4",
+      "risk": 0.24474401599593737,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "758",
+      "video_id": "AutoEvalMetaData/95.mp4",
+      "risk": 0.40520365223295346,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "759",
+      "video_id": "AutoEvalMetaData/95.mp4",
+      "risk": 0.5688070387126213,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1066",
+      "video_id": "AutoEvalMetaData/97.mp4",
+      "risk": 0.34131085737571987,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1067",
+      "video_id": "AutoEvalMetaData/97.mp4",
+      "risk": 0.509963702458545,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1250",
+      "video_id": "AutoEvalMetaData/97.mp4",
+      "risk": 0.17961788515616386,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1251",
+      "video_id": "AutoEvalMetaData/97.mp4",
+      "risk": 0.3027510822946599,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1252",
+      "video_id": "AutoEvalMetaData/97.mp4",
+      "risk": 0.15150609925847114,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1253",
+      "video_id": "AutoEvalMetaData/97.mp4",
+      "risk": 0.17162182757163538,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1105",
+      "video_id": "AutoEvalMetaData/99.mp4",
+      "risk": 0.28562588106434117,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1106",
+      "video_id": "AutoEvalMetaData/99.mp4",
+      "risk": 0.4483921244841338,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "860",
+      "video_id": "AutoEvalMetaData/99.mp4",
+      "risk": 0.35205290292219255,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "861",
+      "video_id": "AutoEvalMetaData/99.mp4",
+      "risk": 0.37007996138631466,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "862",
+      "video_id": "AutoEvalMetaData/99.mp4",
+      "risk": 0.2973940866527447,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "863",
+      "video_id": "AutoEvalMetaData/99.mp4",
+      "risk": 0.2970196213549575,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1109",
+      "video_id": "Ego4D/video/005efbab-c314-48d8-8dd9-bfc1263ec5df.mp4",
+      "risk": 0.18344236659492938,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1110",
+      "video_id": "Ego4D/video/005efbab-c314-48d8-8dd9-bfc1263ec5df.mp4",
+      "risk": 0.21243268465393444,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1111",
+      "video_id": "Ego4D/video/005efbab-c314-48d8-8dd9-bfc1263ec5df.mp4",
+      "risk": 0.2846935906374799,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1150",
+      "video_id": "Ego4D/video/045fcc4d-ad1b-441c-a28c-45bebb88f9bf.mp4",
+      "risk": 0.24669994254563546,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1151",
+      "video_id": "Ego4D/video/045fcc4d-ad1b-441c-a28c-45bebb88f9bf.mp4",
+      "risk": 0.1777823565860678,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1152",
+      "video_id": "Ego4D/video/045fcc4d-ad1b-441c-a28c-45bebb88f9bf.mp4",
+      "risk": 0.3447778274586278,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1202",
+      "video_id": "Ego4D/video/08a7fe30-3f6c-42f7-8b92-88df11e59175.mp4",
+      "risk": 0.15200927874689749,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1203",
+      "video_id": "Ego4D/video/08a7fe30-3f6c-42f7-8b92-88df11e59175.mp4",
+      "risk": 0.5487347895904248,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1204",
+      "video_id": "Ego4D/video/08a7fe30-3f6c-42f7-8b92-88df11e59175.mp4",
+      "risk": 0.14819723480018332,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1112",
+      "video_id": "Ego4D/video/09b7cb24-5d39-47ef-bf45-1ae0284abdb6.mp4",
+      "risk": 0.27171196163220784,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1113",
+      "video_id": "Ego4D/video/09b7cb24-5d39-47ef-bf45-1ae0284abdb6.mp4",
+      "risk": 0.24685775523575315,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1114",
+      "video_id": "Ego4D/video/09b7cb24-5d39-47ef-bf45-1ae0284abdb6.mp4",
+      "risk": 0.14819723480018332,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1028",
+      "video_id": "Ego4D/video/0b0f7069-ef6b-4d6e-bb84-6eaa151e739e.mp4",
+      "risk": 0.4705760958855428,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1153",
+      "video_id": "Ego4D/video/0b0f7069-ef6b-4d6e-bb84-6eaa151e739e.mp4",
+      "risk": 0.16299188738726642,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1154",
+      "video_id": "Ego4D/video/0b0f7069-ef6b-4d6e-bb84-6eaa151e739e.mp4",
+      "risk": 0.162691711521213,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1155",
+      "video_id": "Ego4D/video/0b0f7069-ef6b-4d6e-bb84-6eaa151e739e.mp4",
+      "risk": 0.3132494492301651,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1115",
+      "video_id": "Ego4D/video/151dbdab-9705-4641-a8f7-9f432cec8c2e.mp4",
+      "risk": 0.2655478806961029,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1231",
+      "video_id": "Ego4D/video/151dbdab-9705-4641-a8f7-9f432cec8c2e.mp4",
+      "risk": 0.4268672056074828,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1232",
+      "video_id": "Ego4D/video/151dbdab-9705-4641-a8f7-9f432cec8c2e.mp4",
+      "risk": 0.5599486945516665,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1156",
+      "video_id": "Ego4D/video/15929976-8630-46c5-ae6b-84a4dacd2634.mp4",
+      "risk": 0.23040691671842303,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1157",
+      "video_id": "Ego4D/video/15929976-8630-46c5-ae6b-84a4dacd2634.mp4",
+      "risk": 0.23040691671842303,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "982",
+      "video_id": "Ego4D/video/15929976-8630-46c5-ae6b-84a4dacd2634.mp4",
+      "risk": 0.15411067200947415,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "983",
+      "video_id": "Ego4D/video/15929976-8630-46c5-ae6b-84a4dacd2634.mp4",
+      "risk": 0.36448919784639905,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1206",
+      "video_id": "Ego4D/video/16ba692f-cb3a-4998-be66-f7e5e74b49f2.mp4",
+      "risk": 0.3132494492301651,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1207",
+      "video_id": "Ego4D/video/16ba692f-cb3a-4998-be66-f7e5e74b49f2.mp4",
+      "risk": 0.37490336243445316,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1208",
+      "video_id": "Ego4D/video/16ba692f-cb3a-4998-be66-f7e5e74b49f2.mp4",
+      "risk": 0.16299188738726642,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1225",
+      "video_id": "Ego4D/video/1b2f1101-b3d9-4be5-bc92-393c983be9b4.mp4",
+      "risk": 0.3019802742827228,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1226",
+      "video_id": "Ego4D/video/1b2f1101-b3d9-4be5-bc92-393c983be9b4.mp4",
+      "risk": 0.4101243133172436,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1227",
+      "video_id": "Ego4D/video/1b2f1101-b3d9-4be5-bc92-393c983be9b4.mp4",
+      "risk": 0.26720917789122606,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1209",
+      "video_id": "Ego4D/video/22969066-24e1-4711-b808-bb89e0a84c9c.mp4",
+      "risk": 0.26949174180194596,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": true,
+      "transition": "WC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "677",
+      "video_id": "Ego4D/video/26bfc767-548a-43de-9631-0598a32411a7.mp4",
+      "risk": 0.36538783962582005,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1116",
+      "video_id": "Ego4D/video/342f509b-4aa9-47f0-8fb2-1efd1f3bdbfa.mp4",
+      "risk": 0.1456495754352241,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1117",
+      "video_id": "Ego4D/video/342f509b-4aa9-47f0-8fb2-1efd1f3bdbfa.mp4",
+      "risk": 0.2454057909687304,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "679",
+      "video_id": "Ego4D/video/342f509b-4aa9-47f0-8fb2-1efd1f3bdbfa.mp4",
+      "risk": 0.323392368982755,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1118",
+      "video_id": "Ego4D/video/44045866-ed5e-4758-a136-10cc3719f75b.mp4",
+      "risk": 0.3684445476547601,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": true,
+      "transition": "WC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "981",
+      "video_id": "Ego4D/video/47b77375-1ac1-4d11-8c6f-9cbef488770f.mp4",
+      "risk": 0.2743278321145673,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1119",
+      "video_id": "Ego4D/video/4921fa23-9b0a-4bed-b6d0-2255e9615132.mp4",
+      "risk": 0.2846935906374799,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1120",
+      "video_id": "Ego4D/video/4921fa23-9b0a-4bed-b6d0-2255e9615132.mp4",
+      "risk": 0.18186855650900777,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1121",
+      "video_id": "Ego4D/video/4921fa23-9b0a-4bed-b6d0-2255e9615132.mp4",
+      "risk": 0.2846935906374799,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1161",
+      "video_id": "Ego4D/video/513f88ec-6ae0-4c52-9908-8e2bafffa588.mp4",
+      "risk": 0.45003705985748077,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1162",
+      "video_id": "Ego4D/video/513f88ec-6ae0-4c52-9908-8e2bafffa588.mp4",
+      "risk": 0.17436231338823063,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "979",
+      "video_id": "Ego4D/video/513f88ec-6ae0-4c52-9908-8e2bafffa588.mp4",
+      "risk": 0.39829581637552075,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "980",
+      "video_id": "Ego4D/video/513f88ec-6ae0-4c52-9908-8e2bafffa588.mp4",
+      "risk": 0.1602050015627952,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1122",
+      "video_id": "Ego4D/video/62a88600-ba3e-4d10-ab9a-79f6306d630c.mp4",
+      "risk": 0.3132494492301651,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1123",
+      "video_id": "Ego4D/video/62a88600-ba3e-4d10-ab9a-79f6306d630c.mp4",
+      "risk": 0.30941720828535463,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1124",
+      "video_id": "Ego4D/video/62a88600-ba3e-4d10-ab9a-79f6306d630c.mp4",
+      "risk": 0.23483097731431304,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": true,
+      "transition": "WC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1163",
+      "video_id": "Ego4D/video/6774ba16-a7dc-4104-8d95-6feb6058b3e1.mp4",
+      "risk": 0.3662344173202922,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1164",
+      "video_id": "Ego4D/video/6774ba16-a7dc-4104-8d95-6feb6058b3e1.mp4",
+      "risk": 0.42418004231904743,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1165",
+      "video_id": "Ego4D/video/6774ba16-a7dc-4104-8d95-6feb6058b3e1.mp4",
+      "risk": 0.3132494492301651,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1235",
+      "video_id": "Ego4D/video/6774ba16-a7dc-4104-8d95-6feb6058b3e1.mp4",
+      "risk": 0.6352993901624909,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1234",
+      "video_id": "Ego4D/video/67dce8e0-ea5f-44dd-a2fe-a8f8ed157625.mp4",
+      "risk": 0.2391723262884595,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1125",
+      "video_id": "Ego4D/video/697177fa-49e3-439d-9492-6a9810860572.mp4",
+      "risk": 0.18574889375540496,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1126",
+      "video_id": "Ego4D/video/697177fa-49e3-439d-9492-6a9810860572.mp4",
+      "risk": 0.18574889375540496,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "975",
+      "video_id": "Ego4D/video/697177fa-49e3-439d-9492-6a9810860572.mp4",
+      "risk": 0.28376296348914803,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "976",
+      "video_id": "Ego4D/video/697177fa-49e3-439d-9492-6a9810860572.mp4",
+      "risk": 0.16647183871655089,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1166",
+      "video_id": "Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+      "risk": 0.3132494492301651,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1167",
+      "video_id": "Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+      "risk": 0.3132494492301651,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1222",
+      "video_id": "Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+      "risk": 0.18735793983033433,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1223",
+      "video_id": "Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+      "risk": 0.17365524856920073,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1224",
+      "video_id": "Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+      "risk": 0.2357282488297365,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1228",
+      "video_id": "Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+      "risk": 0.545862067811199,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1229",
+      "video_id": "Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+      "risk": 0.2660970770532784,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1230",
+      "video_id": "Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+      "risk": 0.31776235941847764,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1239",
+      "video_id": "Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+      "risk": 0.24729308136894348,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "676",
+      "video_id": "Ego4D/video/6a7972a1-4984-4680-b91c-3326dbbe97aa.mp4",
+      "risk": 0.5054503827279488,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "977",
+      "video_id": "Ego4D/video/740202e6-5d33-45d3-a088-cbd310a14187.mp4",
+      "risk": 0.4412190375919337,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "978",
+      "video_id": "Ego4D/video/740202e6-5d33-45d3-a088-cbd310a14187.mp4",
+      "risk": 0.36448919784639905,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1168",
+      "video_id": "Ego4D/video/75048701-73b6-4e63-a861-09111bcc246c.mp4",
+      "risk": 0.18344236659492938,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "694",
+      "video_id": "Ego4D/video/760a2d62-d580-4422-b32f-2c4fc9a35c7c.mp4",
+      "risk": 0.40485298324523195,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "695",
+      "video_id": "Ego4D/video/760a2d62-d580-4422-b32f-2c4fc9a35c7c.mp4",
+      "risk": 0.5436295692722938,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": true,
+      "transition": "WC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "696",
+      "video_id": "Ego4D/video/760a2d62-d580-4422-b32f-2c4fc9a35c7c.mp4",
+      "risk": 0.3541259366052062,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1127",
+      "video_id": "Ego4D/video/77975a87-6cb3-45fa-ac8b-a503b6b7c9b5.mp4",
+      "risk": 0.2253212436914452,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1128",
+      "video_id": "Ego4D/video/77975a87-6cb3-45fa-ac8b-a503b6b7c9b5.mp4",
+      "risk": 0.19352920111680727,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1129",
+      "video_id": "Ego4D/video/77975a87-6cb3-45fa-ac8b-a503b6b7c9b5.mp4",
+      "risk": 0.1682238938780031,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1169",
+      "video_id": "Ego4D/video/779d8772-d716-4db2-883e-831d822e721f.mp4",
+      "risk": 0.3132494492301651,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1170",
+      "video_id": "Ego4D/video/779d8772-d716-4db2-883e-831d822e721f.mp4",
+      "risk": 0.3132494492301651,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1171",
+      "video_id": "Ego4D/video/779d8772-d716-4db2-883e-831d822e721f.mp4",
+      "risk": 0.5141609254382042,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1130",
+      "video_id": "Ego4D/video/7a0cbfad-7cb3-44bd-9f0a-926faf5b3479.mp4",
+      "risk": 0.3990561804181003,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1131",
+      "video_id": "Ego4D/video/7a0cbfad-7cb3-44bd-9f0a-926faf5b3479.mp4",
+      "risk": 0.3421293488750171,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1132",
+      "video_id": "Ego4D/video/7a0cbfad-7cb3-44bd-9f0a-926faf5b3479.mp4",
+      "risk": 0.18574889375540496,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "958",
+      "video_id": "Ego4D/video/7a0cbfad-7cb3-44bd-9f0a-926faf5b3479.mp4",
+      "risk": 0.08739550356164855,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": false,
+      "transition": "CW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "959",
+      "video_id": "Ego4D/video/7a0cbfad-7cb3-44bd-9f0a-926faf5b3479.mp4",
+      "risk": 0.08739550356164855,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "960",
+      "video_id": "Ego4D/video/7a0cbfad-7cb3-44bd-9f0a-926faf5b3479.mp4",
+      "risk": 0.08739550356164855,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "961",
+      "video_id": "Ego4D/video/7a0cbfad-7cb3-44bd-9f0a-926faf5b3479.mp4",
+      "risk": 0.08739550356164855,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "962",
+      "video_id": "Ego4D/video/7a0cbfad-7cb3-44bd-9f0a-926faf5b3479.mp4",
+      "risk": 0.08739550356164855,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "963",
+      "video_id": "Ego4D/video/7a0cbfad-7cb3-44bd-9f0a-926faf5b3479.mp4",
+      "risk": 0.08739550356164855,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": false,
+      "transition": "CW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "964",
+      "video_id": "Ego4D/video/7a0cbfad-7cb3-44bd-9f0a-926faf5b3479.mp4",
+      "risk": 0.12952799207475363,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": false,
+      "transition": "CW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "965",
+      "video_id": "Ego4D/video/7a0cbfad-7cb3-44bd-9f0a-926faf5b3479.mp4",
+      "risk": 0.08739550356164855,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "969",
+      "video_id": "Ego4D/video/8693853d-e39d-4af7-a702-11ba9129db50.mp4",
+      "risk": 0.5892774052895555,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": true,
+      "transition": "WC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "970",
+      "video_id": "Ego4D/video/8693853d-e39d-4af7-a702-11ba9129db50.mp4",
+      "risk": 0.5892774052895555,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "971",
+      "video_id": "Ego4D/video/8693853d-e39d-4af7-a702-11ba9129db50.mp4",
+      "risk": 0.5892774052895555,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "972",
+      "video_id": "Ego4D/video/8693853d-e39d-4af7-a702-11ba9129db50.mp4",
+      "risk": 0.5892774052895555,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "973",
+      "video_id": "Ego4D/video/8693853d-e39d-4af7-a702-11ba9129db50.mp4",
+      "risk": 0.41785351828422357,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "691",
+      "video_id": "Ego4D/video/8918b804-75aa-4bc2-b35b-c22f7fd4a9cd.mp4",
+      "risk": 0.22164230855098552,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "692",
+      "video_id": "Ego4D/video/8918b804-75aa-4bc2-b35b-c22f7fd4a9cd.mp4",
+      "risk": 0.40346463769258883,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "693",
+      "video_id": "Ego4D/video/8918b804-75aa-4bc2-b35b-c22f7fd4a9cd.mp4",
+      "risk": 0.49086168417964615,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1175",
+      "video_id": "Ego4D/video/8989a6e3-bb75-420e-ac76-cb444b08bdd1.mp4",
+      "risk": 0.3132494492301651,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1176",
+      "video_id": "Ego4D/video/8989a6e3-bb75-420e-ac76-cb444b08bdd1.mp4",
+      "risk": 0.3132494492301651,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1177",
+      "video_id": "Ego4D/video/8989a6e3-bb75-420e-ac76-cb444b08bdd1.mp4",
+      "risk": 0.3132494492301651,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "688",
+      "video_id": "Ego4D/video/8989a6e3-bb75-420e-ac76-cb444b08bdd1.mp4",
+      "risk": 0.39389891878056355,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "689",
+      "video_id": "Ego4D/video/8989a6e3-bb75-420e-ac76-cb444b08bdd1.mp4",
+      "risk": 0.3068084795514644,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "690",
+      "video_id": "Ego4D/video/8989a6e3-bb75-420e-ac76-cb444b08bdd1.mp4",
+      "risk": 0.3068084795514644,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1233",
+      "video_id": "Ego4D/video/8ccb4f1d-d0ce-48a4-8eca-339084de7366.mp4",
+      "risk": 0.23578196814239086,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "685",
+      "video_id": "Ego4D/video/8ccb4f1d-d0ce-48a4-8eca-339084de7366.mp4",
+      "risk": 0.4680637288406669,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "686",
+      "video_id": "Ego4D/video/8ccb4f1d-d0ce-48a4-8eca-339084de7366.mp4",
+      "risk": 0.43809625140249503,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "687",
+      "video_id": "Ego4D/video/8ccb4f1d-d0ce-48a4-8eca-339084de7366.mp4",
+      "risk": 0.41312925530513156,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1133",
+      "video_id": "Ego4D/video/94d1b58c-cca3-4509-a217-f30c481ea63b.mp4",
+      "risk": 0.3132494492301651,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1134",
+      "video_id": "Ego4D/video/94d1b58c-cca3-4509-a217-f30c481ea63b.mp4",
+      "risk": 0.3132494492301651,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1178",
+      "video_id": "Ego4D/video/982458ba-0e25-4fec-9b11-d0b378b6e922.mp4",
+      "risk": 0.2655478806961029,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1179",
+      "video_id": "Ego4D/video/982458ba-0e25-4fec-9b11-d0b378b6e922.mp4",
+      "risk": 0.16376833042414127,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1236",
+      "video_id": "Ego4D/video/9c20c227-5f30-45c3-8c7c-4d556c24eaed.mp4",
+      "risk": 0.17087618734008628,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1237",
+      "video_id": "Ego4D/video/9c20c227-5f30-45c3-8c7c-4d556c24eaed.mp4",
+      "risk": 0.2784087064615597,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1180",
+      "video_id": "Ego4D/video/a27fc25f-d008-4e1c-aa22-a1c3f4286481.mp4",
+      "risk": 0.17436231338823063,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1181",
+      "video_id": "Ego4D/video/a27fc25f-d008-4e1c-aa22-a1c3f4286481.mp4",
+      "risk": 0.423968415337525,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1182",
+      "video_id": "Ego4D/video/a4385c9b-84f0-4d8f-9227-1efe9f264d50.mp4",
+      "risk": 0.3132494492301651,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1183",
+      "video_id": "Ego4D/video/a4385c9b-84f0-4d8f-9227-1efe9f264d50.mp4",
+      "risk": 0.3132494492301651,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1184",
+      "video_id": "Ego4D/video/a4385c9b-84f0-4d8f-9227-1efe9f264d50.mp4",
+      "risk": 0.3132494492301651,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "988",
+      "video_id": "Ego4D/video/a4385c9b-84f0-4d8f-9227-1efe9f264d50.mp4",
+      "risk": 0.4714085363009116,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "989",
+      "video_id": "Ego4D/video/a4385c9b-84f0-4d8f-9227-1efe9f264d50.mp4",
+      "risk": 0.41664511477711313,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "674",
+      "video_id": "Ego4D/video/aef3563d-4a20-4283-a97b-e51e4836c11d.mp4",
+      "risk": 0.45665960366339237,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "675",
+      "video_id": "Ego4D/video/aef3563d-4a20-4283-a97b-e51e4836c11d.mp4",
+      "risk": 0.42079225721556746,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1135",
+      "video_id": "Ego4D/video/b5bd7bfa-271f-4237-ac6e-f42348adc2a4.mp4",
+      "risk": 0.16493920814285368,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1136",
+      "video_id": "Ego4D/video/b5bd7bfa-271f-4237-ac6e-f42348adc2a4.mp4",
+      "risk": 0.16493920814285368,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1137",
+      "video_id": "Ego4D/video/b5bd7bfa-271f-4237-ac6e-f42348adc2a4.mp4",
+      "risk": 0.23040691671842303,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "986",
+      "video_id": "Ego4D/video/bd66979f-2921-420c-98ed-3512e67f79a4.mp4",
+      "risk": 0.7460599616738244,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "987",
+      "video_id": "Ego4D/video/bd66979f-2921-420c-98ed-3512e67f79a4.mp4",
+      "risk": 0.43123966430565114,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1138",
+      "video_id": "Ego4D/video/c41634ed-20ee-4c2e-9776-47d4445f0f1e.mp4",
+      "risk": 0.1682238938780031,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1139",
+      "video_id": "Ego4D/video/c41634ed-20ee-4c2e-9776-47d4445f0f1e.mp4",
+      "risk": 0.23040691671842303,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1140",
+      "video_id": "Ego4D/video/c41634ed-20ee-4c2e-9776-47d4445f0f1e.mp4",
+      "risk": 0.1682238938780031,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1188",
+      "video_id": "Ego4D/video/c60dc185-49ca-42c2-8ba1-be359bcfb57b.mp4",
+      "risk": 0.16376833042414127,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1189",
+      "video_id": "Ego4D/video/c60dc185-49ca-42c2-8ba1-be359bcfb57b.mp4",
+      "risk": 0.2655478806961029,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1190",
+      "video_id": "Ego4D/video/c60dc185-49ca-42c2-8ba1-be359bcfb57b.mp4",
+      "risk": 0.3608191157360654,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "678",
+      "video_id": "Ego4D/video/c66c30dd-f7c1-492a-9649-84e9147a3fd2.mp4",
+      "risk": 0.5737236890767795,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1014",
+      "video_id": "Ego4D/video/c85d9006-00b3-450e-be12-cc3a1a0ca070.mp4",
+      "risk": 0.3542038345775208,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1015",
+      "video_id": "Ego4D/video/c85d9006-00b3-450e-be12-cc3a1a0ca070.mp4",
+      "risk": 0.5110624382459379,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1018",
+      "video_id": "Ego4D/video/c984e958-2f3a-4260-b155-d59a443350bf.mp4",
+      "risk": 0.35543864987881235,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1019",
+      "video_id": "Ego4D/video/c984e958-2f3a-4260-b155-d59a443350bf.mp4",
+      "risk": 0.4610287102693864,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1020",
+      "video_id": "Ego4D/video/c984e958-2f3a-4260-b155-d59a443350bf.mp4",
+      "risk": 0.26226135967931785,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": false,
+      "transition": "CW",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1022",
+      "video_id": "Ego4D/video/c984e958-2f3a-4260-b155-d59a443350bf.mp4",
+      "risk": 0.599234233374367,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1023",
+      "video_id": "Ego4D/video/c984e958-2f3a-4260-b155-d59a443350bf.mp4",
+      "risk": 0.4048342273804982,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1141",
+      "video_id": "Ego4D/video/c984e958-2f3a-4260-b155-d59a443350bf.mp4",
+      "risk": 0.3132494492301651,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1142",
+      "video_id": "Ego4D/video/c984e958-2f3a-4260-b155-d59a443350bf.mp4",
+      "risk": 0.48636076708325066,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1143",
+      "video_id": "Ego4D/video/c984e958-2f3a-4260-b155-d59a443350bf.mp4",
+      "risk": 0.48097329490049756,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1191",
+      "video_id": "Ego4D/video/ccf8a14a-e815-4a2d-8ddc-8863b4e158a6.mp4",
+      "risk": 0.17436231338823063,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1192",
+      "video_id": "Ego4D/video/ccf8a14a-e815-4a2d-8ddc-8863b4e158a6.mp4",
+      "risk": 0.14819723480018332,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1193",
+      "video_id": "Ego4D/video/ccf8a14a-e815-4a2d-8ddc-8863b4e158a6.mp4",
+      "risk": 0.17436231338823063,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1210",
+      "video_id": "Ego4D/video/e1fa5de2-eb21-41a3-85b3-882a3652df42.mp4",
+      "risk": 0.2381136613416958,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1211",
+      "video_id": "Ego4D/video/e1fa5de2-eb21-41a3-85b3-882a3652df42.mp4",
+      "risk": 0.4101243133172436,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1212",
+      "video_id": "Ego4D/video/e1fa5de2-eb21-41a3-85b3-882a3652df42.mp4",
+      "risk": 0.17037836661592126,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1147",
+      "video_id": "Ego4D/video/e2508048-e8d3-4e48-8129-a1b6abebba74.mp4",
+      "risk": 0.20739689956263888,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1148",
+      "video_id": "Ego4D/video/e2508048-e8d3-4e48-8129-a1b6abebba74.mp4",
+      "risk": 0.23040691671842303,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1149",
+      "video_id": "Ego4D/video/e2508048-e8d3-4e48-8129-a1b6abebba74.mp4",
+      "risk": 0.16493920814285368,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1194",
+      "video_id": "Ego4D/video/ebc98edd-f56e-431a-acb5-9d40fea9d4c6.mp4",
+      "risk": 0.3040506382866409,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1195",
+      "video_id": "Ego4D/video/ebc98edd-f56e-431a-acb5-9d40fea9d4c6.mp4",
+      "risk": 0.162691711521213,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "966",
+      "video_id": "Ego4D/video/ec2d6927-d5d4-4c8a-9da7-3e40345cf78f.mp4",
+      "risk": 0.386730748576972,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "967",
+      "video_id": "Ego4D/video/ec2d6927-d5d4-4c8a-9da7-3e40345cf78f.mp4",
+      "risk": 0.6364955031654956,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "968",
+      "video_id": "Ego4D/video/ec2d6927-d5d4-4c8a-9da7-3e40345cf78f.mp4",
+      "risk": 0.6364955031654956,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1213",
+      "video_id": "Ego4D/video/f43e2a97-b81b-4271-befd-569552d8129c.mp4",
+      "risk": 0.26980439298648295,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": true,
+      "transition": "WC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1214",
+      "video_id": "Ego4D/video/f43e2a97-b81b-4271-befd-569552d8129c.mp4",
+      "risk": 0.4101243133172436,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1215",
+      "video_id": "Ego4D/video/f43e2a97-b81b-4271-befd-569552d8129c.mp4",
+      "risk": 0.4101243133172436,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ACR"
+    },
+    {
+      "qa_id": "1196",
+      "video_id": "Ego4D/video/f4e2d43a-9fd2-48c0-b1d3-ca32c82ec2c4.mp4",
+      "risk": 0.25638973363570194,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1197",
+      "video_id": "Ego4D/video/f4e2d43a-9fd2-48c0-b1d3-ca32c82ec2c4.mp4",
+      "risk": 0.5378868347574909,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1198",
+      "video_id": "Ego4D/video/f4e2d43a-9fd2-48c0-b1d3-ca32c82ec2c4.mp4",
+      "risk": 0.2846935906374799,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1016",
+      "video_id": "Ego4D/video/f5613680-1dbc-4945-8a77-949098bc13dd.mp4",
+      "risk": 0.3927548958821108,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1017",
+      "video_id": "Ego4D/video/f5613680-1dbc-4945-8a77-949098bc13dd.mp4",
+      "risk": 0.2831630855079059,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1011",
+      "video_id": "Ego4D/video/f801d038-60b9-4957-bd9d-87263202cbb7.mp4",
+      "risk": 0.33680435106153334,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1012",
+      "video_id": "Ego4D/video/f801d038-60b9-4957-bd9d-87263202cbb7.mp4",
+      "risk": 0.4884112531207523,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1013",
+      "video_id": "Ego4D/video/f801d038-60b9-4957-bd9d-87263202cbb7.mp4",
+      "risk": 0.5546975037808969,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1024",
+      "video_id": "Ego4D/video/f801d038-60b9-4957-bd9d-87263202cbb7.mp4",
+      "risk": 0.44417457657185744,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1025",
+      "video_id": "Ego4D/video/f801d038-60b9-4957-bd9d-87263202cbb7.mp4",
+      "risk": 0.6081675464653179,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1026",
+      "video_id": "Ego4D/video/f801d038-60b9-4957-bd9d-87263202cbb7.mp4",
+      "risk": 0.2506027330303496,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "682",
+      "video_id": "Ego4D/video/f84f7484-5109-43bc-a54c-7e66478dfb6f.mp4",
+      "risk": 0.3792176855479685,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "683",
+      "video_id": "Ego4D/video/f84f7484-5109-43bc-a54c-7e66478dfb6f.mp4",
+      "risk": 0.39711312126606335,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "684",
+      "video_id": "Ego4D/video/f84f7484-5109-43bc-a54c-7e66478dfb6f.mp4",
+      "risk": 0.3113758763459938,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1199",
+      "video_id": "Ego4D/video/f93e485e-9ec3-4856-809d-f050c6439b7b.mp4",
+      "risk": 0.23250545372448056,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1200",
+      "video_id": "Ego4D/video/f93e485e-9ec3-4856-809d-f050c6439b7b.mp4",
+      "risk": 0.17436231338823063,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "1201",
+      "video_id": "Ego4D/video/f93e485e-9ec3-4856-809d-f050c6439b7b.mp4",
+      "risk": 0.17436231338823063,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "FPD"
+    },
+    {
+      "qa_id": "656",
+      "video_id": "YouTube_Games/8gtpP2Toigg&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=2.mp4",
+      "risk": 0.5936028340288304,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "657",
+      "video_id": "YouTube_Games/8gtpP2Toigg&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=2.mp4",
+      "risk": 0.42744057247435274,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "826",
+      "video_id": "YouTube_Games/8gtpP2Toigg&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=2.mp4",
+      "risk": 0.5331458871258097,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "827",
+      "video_id": "YouTube_Games/8gtpP2Toigg&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=2.mp4",
+      "risk": 0.4616253018855119,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "828",
+      "video_id": "YouTube_Games/8gtpP2Toigg&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=2.mp4",
+      "risk": 0.6061737144630955,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "829",
+      "video_id": "YouTube_Games/8gtpP2Toigg&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=2.mp4",
+      "risk": 0.44993633614936046,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": true,
+      "transition": "WC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "658",
+      "video_id": "YouTube_Games/Bu0z7pxeIes&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=3.mp4",
+      "risk": 0.3739150613309715,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "659",
+      "video_id": "YouTube_Games/Bu0z7pxeIes&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=3.mp4",
+      "risk": 0.5660332831480365,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "660",
+      "video_id": "YouTube_Games/Bu0z7pxeIes&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=3.mp4",
+      "risk": 0.23810708520668827,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "830",
+      "video_id": "YouTube_Games/Bu0z7pxeIes&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=3.mp4",
+      "risk": 0.32360787733908547,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": true,
+      "transition": "WC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "831",
+      "video_id": "YouTube_Games/Bu0z7pxeIes&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=3.mp4",
+      "risk": 0.23380085563285052,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "832",
+      "video_id": "YouTube_Games/Bu0z7pxeIes&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=3.mp4",
+      "risk": 0.23091469995398983,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": true,
+      "transition": "WC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "668",
+      "video_id": "YouTube_Games/KN9AaPgGkPI&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=7.mp4",
+      "risk": 0.5397802248981471,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "669",
+      "video_id": "YouTube_Games/KN9AaPgGkPI&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=7.mp4",
+      "risk": 0.5526775538126975,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "670",
+      "video_id": "YouTube_Games/KN9AaPgGkPI&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=7.mp4",
+      "risk": 0.647929013108681,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "838",
+      "video_id": "YouTube_Games/KN9AaPgGkPI&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=7.mp4",
+      "risk": 0.4516321096618194,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": false,
+      "transition": "CW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "839",
+      "video_id": "YouTube_Games/KN9AaPgGkPI&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=7.mp4",
+      "risk": 0.34035548147749517,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "631",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=1.mp4",
+      "risk": 0.3949110449067277,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "632",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=1.mp4",
+      "risk": 0.19802316478973742,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "633",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=1.mp4",
+      "risk": 0.4349992362761183,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "634",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=1.mp4",
+      "risk": 0.4877117272434983,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "809",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=1.mp4",
+      "risk": 0.255411302516437,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "993",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=1.mp4",
+      "risk": 0.56139290739654,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "635",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+      "risk": 0.7011675887071798,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "636",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+      "risk": 0.7011675887071798,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "637",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+      "risk": 0.4907076055513758,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "638",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+      "risk": 0.514769796880372,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "639",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+      "risk": 0.34976622308322525,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "810",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+      "risk": 0.2458601289567304,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": false,
+      "transition": "CW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "811",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+      "risk": 0.4157759491219825,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "812",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+      "risk": 0.5216442907468006,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "813",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+      "risk": 0.24380788981131848,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "994",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+      "risk": 0.7180155656330786,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "995",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+      "risk": 0.7180155656330786,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "996",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+      "risk": 0.5011348877563572,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "997",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+      "risk": 0.4982033680936739,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "998",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+      "risk": 0.7267011759200209,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "999",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=2.mp4",
+      "risk": 0.6273429496640784,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1000",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=3.mp4",
+      "risk": 0.2578490121553447,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "640",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=3.mp4",
+      "risk": 0.40615767599919006,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "641",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=3.mp4",
+      "risk": 0.2673840862305437,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "814",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=3.mp4",
+      "risk": 0.2980341046159692,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "815",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=3.mp4",
+      "risk": 0.4773693500277617,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1002",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=5.mp4",
+      "risk": 0.73562470717027,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1003",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=5.mp4",
+      "risk": 0.5248197453921216,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "643",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=5.mp4",
+      "risk": 0.5904967637473811,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "644",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=5.mp4",
+      "risk": 0.29788163970493103,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "817",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=5.mp4",
+      "risk": 0.3106540437813915,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1004",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=6.mp4",
+      "risk": 0.7180155656330786,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1005",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=6.mp4",
+      "risk": 0.2459626051155371,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "645",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=6.mp4",
+      "risk": 0.6078356463672585,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "646",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=6.mp4",
+      "risk": 0.5376085075418132,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1006",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=7.mp4",
+      "risk": 0.7954491485400439,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "647",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=7.mp4",
+      "risk": 0.477537039975501,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "648",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=7.mp4",
+      "risk": 0.44524127308930933,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "1007",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=8.mp4",
+      "risk": 0.73562470717027,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1008",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=8.mp4",
+      "risk": 0.7183505490979486,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "649",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=8.mp4",
+      "risk": 0.3783152514599822,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "818",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=8.mp4",
+      "risk": 0.37351199340985614,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "1009",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=9.mp4",
+      "risk": 0.5774084490049866,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "1010",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=9.mp4",
+      "risk": 0.28539209233807455,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "ATR"
+    },
+    {
+      "qa_id": "650",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=9.mp4",
+      "risk": 0.39494763554218865,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "651",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=9.mp4",
+      "risk": 0.38979175383916764,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "819",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=9.mp4",
+      "risk": 0.3328760618339357,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "820",
+      "video_id": "YouTube_Games/PLJ3VIGhVd3r8Int6IZT_v3S_BzG9RVfiG&index=9.mp4",
+      "risk": 0.37351199340985614,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "661",
+      "video_id": "YouTube_Games/QRJDDR_z3Lk&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=5.mp4",
+      "risk": 0.3353138362774546,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "662",
+      "video_id": "YouTube_Games/QRJDDR_z3Lk&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=5.mp4",
+      "risk": 0.24820700773495477,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "663",
+      "video_id": "YouTube_Games/QRJDDR_z3Lk&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=5.mp4",
+      "risk": 0.311593730807286,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "833",
+      "video_id": "YouTube_Games/QRJDDR_z3Lk&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=5.mp4",
+      "risk": 0.30880085041574545,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "834",
+      "video_id": "YouTube_Games/QRJDDR_z3Lk&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=5.mp4",
+      "risk": 0.35419871853324225,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "835",
+      "video_id": "YouTube_Games/QRJDDR_z3Lk&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=5.mp4",
+      "risk": 0.726292851582043,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "836",
+      "video_id": "YouTube_Games/QRJDDR_z3Lk&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=5.mp4",
+      "risk": 0.2674378507357453,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "664",
+      "video_id": "YouTube_Games/RiIYSrrwjuU&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=6.mp4",
+      "risk": 0.49326067762190234,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "665",
+      "video_id": "YouTube_Games/RiIYSrrwjuU&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=6.mp4",
+      "risk": 0.7011675887071798,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": false,
+      "transition": "CW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "666",
+      "video_id": "YouTube_Games/RiIYSrrwjuU&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=6.mp4",
+      "risk": 0.46017268210193113,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "667",
+      "video_id": "YouTube_Games/RiIYSrrwjuU&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=6.mp4",
+      "risk": 0.3948606760462635,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "837",
+      "video_id": "YouTube_Games/RiIYSrrwjuU&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=6.mp4",
+      "risk": 0.40767939698226335,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "671",
+      "video_id": "YouTube_Games/lhL3SUb078g&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=9.mp4",
+      "risk": 0.49326067762190234,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "STU"
+    },
+    {
+      "qa_id": "672",
+      "video_id": "YouTube_Games/lhL3SUb078g&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=9.mp4",
+      "risk": 0.7011675887071798,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "673",
+      "video_id": "YouTube_Games/lhL3SUb078g&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=9.mp4",
+      "risk": 0.49326067762190234,
+      "oof_action": "HR",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "STU"
+    },
+    {
+      "qa_id": "842",
+      "video_id": "YouTube_Games/lhL3SUb078g&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=9.mp4",
+      "risk": 0.6024631464064951,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "843",
+      "video_id": "YouTube_Games/lhL3SUb078g&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=9.mp4",
+      "risk": 0.6528703807370093,
+      "oof_action": "HR",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "840",
+      "video_id": "YouTube_Games/m-7k8KfT9s8&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=8.mp4",
+      "risk": 0.3037136397954369,
+      "oof_action": "C070",
+      "ffv_correct": true,
+      "fcv_correct": true,
+      "transition": "CC",
+      "task": "OJR"
+    },
+    {
+      "qa_id": "841",
+      "video_id": "YouTube_Games/m-7k8KfT9s8&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=8.mp4",
+      "risk": 0.2957886305519872,
+      "oof_action": "C070",
+      "ffv_correct": false,
+      "fcv_correct": false,
+      "transition": "WW",
+      "task": "OJR"
+    }
+  ]
+}

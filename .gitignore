@@ -1,0 +1,78 @@
+# Datasets / raw data / videos
+datasets/
+data/
+videos/
+raw_data/
+downloads/
+**/datasets/
+**/videos/
+**/downloads/
+*.mp4
+*.avi
+*.mkv
+*.webm
+*.mov
+
+# Models / checkpoints
+models/
+checkpoints/
+**/models/
+**/checkpoints/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.gguf
+*.joblib.weights
+
+# Large caches / outputs / logs
+cache/
+**/cache/
+outputs/
+tmp/
+logs/
+**/logs/
+*.log
+.huggingface/
+hf_cache/
+.vllm/
+__pycache__/
+*.pyc
+
+# Virtual envs / package caches
+.venv/
+**/.venv/
+.uv_cache/
+**/.uv_cache/
+env/
+venv/
+
+# Archives
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+*.conda
+
+# Secrets / credentials
+.env
+.env.*
+*.pem
+*.key
+id_rsa
+id_ed25519
+id_dsa
+*secret*
+*password*
+*credential*
+*api_key*
+*_token*
+*.gpg
+
+# OS / editor
+.vscode/
+.idea/
+.DS_Store
+
+# Keep experiment configs/results; do not ignore *.json / *.csv wholesale.

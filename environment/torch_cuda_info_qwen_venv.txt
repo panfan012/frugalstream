@@ -1,0 +1,4 @@
+python 3.12.14
+torch 2.13.0+cu132
+cuda_available True
+cuda_version 13.2

@@ -1,0 +1,9 @@
+
+# conda environments:
+#
+# * -> active
+# + -> frozen
+base                 *   /opt/conda
+minicpmo45               /opt/conda/envs/minicpmo45
+qwen25omni               /opt/conda/envs/qwen25omni
+

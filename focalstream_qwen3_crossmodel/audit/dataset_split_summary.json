@@ -1,0 +1,16 @@
+{
+  "source": "/root/OVO-Bench-full/results/stage2a_split_manifest.json",
+  "total_expanded_qa": 3035,
+  "development_qa": 2909,
+  "final_test_qa": 126,
+  "development_videos": 610,
+  "final_test_videos": 34,
+  "rtvp_total_qa": 837,
+  "rtvp_development_qa": 711,
+  "rtvp_final_test_qa": 126,
+  "rtvp_development_videos": 203,
+  "rtvp_final_test_videos": 34,
+  "final_test_membership_source": "/root/OVO-Bench-full/results/stage2a_final_test_set.csv",
+  "video_overlap_dev_vs_final": 0,
+  "verified_counts": "PASS"
+}

@@ -1,0 +1,14 @@
+{
+  "version": "V4",
+  "status": "frozen",
+  "policy": "C070_vs_FullHR",
+  "risk_source": "existing frozen query-risk (tfidf_score from stage2a_dev_cv_predictions.csv)",
+  "threshold": 0.3554,
+  "comparison": "risk > threshold => FullHR, else C070",
+  "c070_width_ratio": 0.70,
+  "c070_height_ratio": 0.70,
+  "c070_area_ratio": 0.49,
+  "selection_method": "strict 5-fold GroupKFold OOF validated (group=video_id)",
+  "deprecated_threshold_0_5": true,
+  "final_test_used": false
+}

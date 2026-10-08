@@ -1,0 +1,21 @@
+pipeline: qwen3_omni_moe_thinker_only
+distributed_executor_backend: mp
+enable_prefix_caching: false
+
+stages:
+  - stage_id: 0
+    devices: "0"
+    max_num_seqs: 8
+    max_num_batched_tokens: 32768
+    max_model_len: 32768
+    gpu_memory_utilization: 0.85
+    enforce_eager: false
+    async_scheduling: false
+    moe_backend: triton
+    trust_remote_code: true
+    default_sampling_params:
+      temperature: 0.0
+      top_p: 0.9
+      top_k: -1
+      max_tokens: 2048
+      repetition_penalty: 1.05

@@ -1,0 +1,32 @@
+{
+  "experiment": "QWEN3_FEWSHOT_THRESHOLD_CALIBRATION",
+  "mode": "offline_routing_replay",
+  "new_qwen_calls": 0,
+  "source": {
+    "rtvp_manifest": "/workspace/focalstream_qwen3_crossmodel/manifests/rtvp_oof_711_qa.jsonl",
+    "qwen_predictions": "/workspace/focalstream_qwen3_crossmodel/predictions/qwen_predictions.jsonl",
+    "ffv_csv": "/workspace/focalstream_qwen3_crossmodel/results/qwen_rtvp_fixed_ffv.csv",
+    "fcv_csv": "/workspace/focalstream_qwen3_crossmodel/results/qwen_rtvp_fixed_fcv.csv"
+  },
+  "frozen": {
+    "tau_minicpm": 0.3554,
+    "budget_center_pct": 43.46,
+    "budget_half_width_pp": 5.0,
+    "budget_window_pct": [38.46, 48.46]
+  },
+  "splits": {
+    "video_level": true,
+    "ks": [4, 8, 16, 32, 64, 128],
+    "split_seeds": 100,
+    "routing_seeds_per_split": 1000
+  },
+  "threshold_candidates": {
+    "formal": "predefined_quantile_grid_0_to_100_step_2.5",
+    "sensitivity": "exact_unique_qre_scores",
+    "selection_objectives": ["cost_constrained", "accuracy_only"]
+  },
+  "evaluation": {
+    "macro_definition": "mean_of_present_RTVP_task_accuracies",
+    "final_test_used": false
+  }
+}

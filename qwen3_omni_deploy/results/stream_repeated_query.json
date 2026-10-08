@@ -1,0 +1,45 @@
+{
+  "video": "/root/OVO-Bench-full/data/src_videos/star/X4DOF.mp4",
+  "fps": 1.0,
+  "results": [
+    {
+      "query_time_s": 5.0,
+      "latency_s": 0.422,
+      "answer": "A dog is lying on a couch, its head resting on the back of the couch. The dog's tail is wagging slowly. The dog looks up and to the left, then back down. The dog continues to lie on the couch, its tail wagging slowly.",
+      "frames_consumed": {
+        "frame_ids": [
+          "0"
+        ],
+        "latest_pts_ms": 0
+      },
+      "frame_acks": 6,
+      "error": null
+    },
+    {
+      "query_time_s": 10.0,
+      "latency_s": 0.537,
+      "answer": "The video shows a living room with a ceiling fan spinning slowly. A dog is lying on a couch in the foreground, its head resting on the back of the couch. The dog's tail is wagging slowly. The dog looks up and to the left, then back down. The dog continues to lie on the couch, its tail wagging slowly.",
+      "frames_consumed": {
+        "frame_ids": [
+          "0"
+        ],
+        "latest_pts_ms": 0
+      },
+      "frame_acks": 5,
+      "error": null
+    },
+    {
+      "query_time_s": 15.0,
+      "latency_s": 0.386,
+      "answer": "A dog lies on a couch in a living room. The dog's tail wags slowly. The dog lifts its head and looks to the left, then back down. The dog remains lying on the couch, its tail continuing to wag slowly.",
+      "frames_consumed": {
+        "frame_ids": [
+          "0"
+        ],
+        "latest_pts_ms": 0
+      },
+      "frame_acks": 5,
+      "error": null
+    }
+  ]
+}

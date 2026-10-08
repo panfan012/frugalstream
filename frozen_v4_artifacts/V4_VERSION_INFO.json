@@ -1,0 +1,46 @@
+{
+  "version": "V4",
+  "status": "frozen",
+  "name": "Query-Adaptive Spatial Fidelity Management",
+  "base": "V3",
+  "temporal_policy": "frozen Decision Tree",
+  "spatial_actions": ["C070", "Full HR"],
+  "router_signal": "frozen query-risk",
+  "router_threshold": 0.3554,
+  "deprecated_exploratory_threshold": 0.5,
+  "validation": {
+    "type": "5-fold GroupKFold OOF",
+    "group": "video_id",
+    "videos": 203,
+    "qa": 711,
+    "fold_thresholds": [0.3554, 0.3554, 0.3542, 0.3554, 0.3554],
+    "threshold_mean": 0.3552,
+    "threshold_std": 0.0005,
+    "verdict": "STRONG PASS"
+  },
+  "metrics": {
+    "raw": 78.1997,
+    "macro": 78.6406,
+    "wc_recovery": "64/71",
+    "cw_harm": 4,
+    "full_hr_escalation_rate": 0.4346,
+    "input_tokens": 11851282,
+    "additional_visual_tokens": 430848
+  },
+  "v3_reference": {
+    "raw": 76.3713,
+    "macro": 76.3563,
+    "wc_recovery": "64/71",
+    "cw_harm": 10,
+    "input_tokens": 11891981,
+    "additional_visual_tokens": 470464
+  },
+  "development_only": true,
+  "final_test_touched": false,
+  "snapshot_utc": "2026-09-29T09:35:00Z",
+  "git_commit": "259f255e7c29cf8094e08769c89bd06dfb146b0e",
+  "git_branch": "main",
+  "hostname": "1e216dac6b95",
+  "python_env": "/opt/conda/envs/minicpmo45/bin/python",
+  "target_model": "MiniCPM-o-4_5"
+}

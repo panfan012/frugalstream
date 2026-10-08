@@ -1,0 +1,104 @@
+{
+  "full_dev": [
+    {
+      "method": "dense",
+      "n": 2909,
+      "raw": 58.1987,
+      "macro": 60.0872,
+      "cat_macro": {
+        "Real-Time Visual Perception": 71.73,
+        "Backward Tracing": 55.309,
+        "Forward Active Responding": 53.2227
+      },
+      "frames_per_qa_mean": 211.5
+    },
+    {
+      "method": "v2",
+      "n": 2909,
+      "raw": 58.3362,
+      "macro": 60.326,
+      "cat_macro": {
+        "Real-Time Visual Perception": 72.5738,
+        "Backward Tracing": 55.309,
+        "Forward Active Responding": 53.0951
+      },
+      "frames_per_qa_mean": 183.19
+    },
+    {
+      "method": "v3",
+      "n": 2909,
+      "raw": 58.8862,
+      "macro": 61.0761,
+      "cat_macro": {
+        "Real-Time Visual Perception": 74.8242,
+        "Backward Tracing": 55.309,
+        "Forward Active Responding": 53.0951
+      },
+      "frames_per_qa_mean": 183.19
+    },
+    {
+      "method": "v4",
+      "n": 2909,
+      "raw": 58.68,
+      "macro": 60.7948,
+      "cat_macro": {
+        "Real-Time Visual Perception": 73.9803,
+        "Backward Tracing": 55.309,
+        "Forward Active Responding": 53.0951
+      },
+      "frames_per_qa_mean": 183.19
+    }
+  ],
+  "rtvp_oof": [
+    {
+      "method": "fixed_ffv",
+      "n": 711,
+      "raw": 73.9803,
+      "macro": 74.6177,
+      "task_acc": {
+        "STU": 63.3987,
+        "ATR": 79.0,
+        "OCR": 81.8898,
+        "OJR": 73.7179,
+        "ACR": 73.5632,
+        "FPD": 76.1364
+      }
+    },
+    {
+      "method": "fixed_fcv",
+      "n": 711,
+      "raw": 74.8242,
+      "macro": 75.702,
+      "task_acc": {
+        "STU": 63.3987,
+        "ATR": 78.0,
+        "OCR": 87.4016,
+        "OJR": 71.1538,
+        "ACR": 74.7126,
+        "FPD": 79.5455
+      }
+    },
+    {
+      "method": "focalstream_oof",
+      "n": 711,
+      "raw": 74.121,
+      "macro": 74.8517,
+      "task_acc": {
+        "STU": 62.0915,
+        "ATR": 79.0,
+        "OCR": 83.4646,
+        "OJR": 73.7179,
+        "ACR": 73.5632,
+        "FPD": 77.2727
+      }
+    }
+  ],
+  "ffv_fcv_transition": {
+    "WC": 20,
+    "CW": 14,
+    "CC": 512,
+    "WW": 165
+  },
+  "tau_v3": 0.2307592643,
+  "tau_v4": 0.3554
+}

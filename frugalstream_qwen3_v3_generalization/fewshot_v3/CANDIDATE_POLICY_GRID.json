@@ -1,0 +1,18 @@
+{
+  "frozen_v3_reference": {"W_s": 1.0, "F_fps": 1, "R": "original"},
+  "candidate_space": {
+    "W_s": [0.5, 1.0, 2.0, 4.0],
+    "F_fps": [1, 2],
+    "R": ["low_0.75x_original", "original", "high_1.25x_original"]
+  },
+  "total_candidate_policies": 24,
+  "request_estimate": {
+    "rtvp_qa": 711,
+    "existing_reference_candidate_requests": 711,
+    "total_unique_candidate_qa_specs": 17064,
+    "new_unique_requests_if_all_policies_on_all_qa": 16353,
+    "policy_count_all_qa_if_run": 24
+  },
+  "status": "NOT_STARTED",
+  "reason": "estimated new unique requests 16353 > 3000; experiment B blocked pending user authorization for larger request budget or reduced candidate grid."
+}

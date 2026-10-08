@@ -1,0 +1,5 @@
+method,n,prompt_tokens_mean,completion_tokens_mean,media_bytes_mean,pixels_mean,long_frames_used_mean,refill_frames_used_mean
+dense,2909,14597.91,2.02,3416939.93,14357507.08,127.17,0
+v2,2909,13685.12,2.01,3218420.17,13453562.9,119.17,0
+v3,2909,13935.39,2.01,3233766.46,13718704.05,117.64,0.39
+v4,2909,13921.91,2.01,3236865.37,13699110.33,117.87,0.49

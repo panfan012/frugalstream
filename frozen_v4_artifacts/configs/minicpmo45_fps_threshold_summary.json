@@ -1,0 +1,54 @@
+[
+  {
+    "fps": 1.0,
+    "total_queries": 664,
+    "correct": 423,
+    "incorrect": 241,
+    "invalid": 0,
+    "processing_error": 0,
+    "raw_accuracy": 0.637048,
+    "avg_frames_seen": 320.411145,
+    "total_frames_seen": 212753.0,
+    "avg_visual_tokens_per_query": 20506.313253,
+    "total_visual_tokens": 13616192.0
+  },
+  {
+    "fps": 0.75,
+    "total_queries": 664,
+    "correct": 432,
+    "incorrect": 232,
+    "invalid": 0,
+    "processing_error": 0,
+    "raw_accuracy": 0.650602,
+    "avg_frames_seen": 240.641566,
+    "total_frames_seen": 159786.0,
+    "avg_visual_tokens_per_query": 15401.060241,
+    "total_visual_tokens": 10226304.0
+  },
+  {
+    "fps": 0.5,
+    "total_queries": 664,
+    "correct": 415,
+    "incorrect": 249,
+    "invalid": 0,
+    "processing_error": 0,
+    "raw_accuracy": 0.625,
+    "avg_frames_seen": 160.454819,
+    "total_frames_seen": 106542.0,
+    "avg_visual_tokens_per_query": 10269.108434,
+    "total_visual_tokens": 6818688.0
+  },
+  {
+    "fps": 0.25,
+    "total_queries": 664,
+    "correct": 400,
+    "incorrect": 264,
+    "invalid": 0,
+    "processing_error": 0,
+    "raw_accuracy": 0.60241,
+    "avg_frames_seen": 80.47741,
+    "total_frames_seen": 53437.0,
+    "avg_visual_tokens_per_query": 5150.554217,
+    "total_visual_tokens": 3419968.0
+  }
+]

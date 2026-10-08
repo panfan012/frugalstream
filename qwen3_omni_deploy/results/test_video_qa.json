@@ -1,0 +1,17 @@
+{
+  "test": "video_qa",
+  "status": "PASS",
+  "timestamp": "2026-10-07T05:54:06Z",
+  "video": "/root/OVO-Bench-full/data/src_videos/star/X4DOF.mp4",
+  "size_mb": 0.32,
+  "question": "What is the main activity in this video?",
+  "latency_s": 0.548,
+  "answer": "The main activity in this video is a man throwing a pillow at a door.",
+  "usage": {
+    "prompt_tokens": 2539,
+    "total_tokens": 2556,
+    "completion_tokens": 17,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": null
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "full_dev": [
+    {
+      "method": "dense",
+      "n": 2909,
+      "raw": 58.1987,
+      "macro": 60.0872,
+      "cat_macro": {
+        "Real-Time Visual Perception": 71.73,
+        "Backward Tracing": 55.309,
+        "Forward Active Responding": 53.2227
+      },
+      "pixels_total": 41765988096,
+      "pixels_per_qa": 14357507.08,
+      "media_bytes_total": 9939878253,
+      "media_bytes_per_qa": 3416939.93,
+      "prompt_tokens_total": 42465315,
+      "prompt_tokens_per_qa": 14597.91,
+      "frames_per_qa": 127.17,
+      "latency_mean": 3.0652
+    },
+    {
+      "method": "v2",
+      "n": 2909,
+      "raw": 58.3362,
+      "macro": 60.326,
+      "cat_macro": {
+        "Real-Time Visual Perception": 72.5738,
+        "Backward Tracing": 55.309,
+        "Forward Active Responding": 53.0951
+      },
+      "pixels_total": 39136414464,
+      "pixels_per_qa": 13453562.9,
+      "media_bytes_total": 9362384277,
+      "media_bytes_per_qa": 3218420.17,
+      "prompt_tokens_total": 39810027,
+      "prompt_tokens_per_qa": 13685.12,
+      "frames_per_qa": 119.17,
+      "latency_mean": 2.9615
+    },
+    {
+      "method": "v3",
+      "n": 2909,
+      "raw": 58.8862,
+      "macro": 61.0761,
+      "cat_macro": {
+        "Real-Time Visual Perception": 74.8242,
+        "Backward Tracing": 55.309,
+        "Forward Active Responding": 53.0951
+      },
+      "pixels_total": 39907710080,
+      "pixels_per_qa": 13718704.05,
+      "media_bytes_total": 9407026620,
+      "media_bytes_per_qa": 3233766.46,
+      "prompt_tokens_total": 40538059,
+      "prompt_tokens_per_qa": 13935.39,
+      "frames_per_qa": 118.04,
+      "latency_mean": 2.9279
+    },
+    {
+      "method": "v4",
+      "n": 2909,
+      "raw": 58.68,
+      "macro": 60.7948,
+      "cat_macro": {
+        "Real-Time Visual Perception": 73.9803,
+        "Backward Tracing": 55.309,
+        "Forward Active Responding": 53.0951
+      },
+      "pixels_total": 39850711936,
+      "pixels_per_qa": 13699110.33,
+      "media_bytes_total": 9416041371,
+      "media_bytes_per_qa": 3236865.37,
+      "prompt_tokens_total": 40498837,
+      "prompt_tokens_per_qa": 13921.91,
+      "frames_per_qa": 118.36,
+      "latency_mean": 2.956
+    }
+  ],
+  "rtvp_dev": [
+    {
+      "method": "v2",
+      "n": 711,
+      "raw": 72.5738,
+      "macro": 73.3761,
+      "task_acc": {
+        "STU": 62.0915,
+        "ATR": 78.0,
+        "OCR": 81.1024,
+        "OJR": 70.5128,
+        "ACR": 72.4138,
+        "FPD": 76.1364
+      },
+      "pixels_total": 11980523520,
+      "pixels_per_qa": 16850244.05,
+      "media_bytes_total": 3057970227,
+      "media_bytes_per_qa": 4300942.65,
+      "prompt_tokens_total": 12164986,
+      "prompt_tokens_per_qa": 17109.68
+    },
+    {
+      "method": "v3",
+      "n": 711,
+      "raw": 74.8242,
+      "macro": 75.568,
+      "task_acc": {
+        "STU": 63.3987,
+        "ATR": 79.0,
+        "OCR": 86.6142,
+        "OJR": 72.4359,
+        "ACR": 72.4138,
+        "FPD": 79.5455
+      },
+      "pixels_total": 12751819136,
+      "pixels_per_qa": 17935048.01,
+      "media_bytes_total": 3102612570,
+      "media_bytes_per_qa": 4363730.76,
+      "prompt_tokens_total": 12893018,
+      "prompt_tokens_per_qa": 18133.64
+    },
+    {
+      "method": "v4_frozen_tau",
+      "n": 711,
+      "raw": 73.9803,
+      "macro": 74.7204,
+      "task_acc": {
+        "STU": 62.0915,
+        "ATR": 79.0,
+        "OCR": 82.6772,
+        "OJR": 73.7179,
+        "ACR": 73.5632,
+        "FPD": 77.2727
+      },
+      "pixels_total": 12694820992,
+      "pixels_per_qa": 17854881.85,
+      "media_bytes_total": 3111627321,
+      "media_bytes_per_qa": 4376409.73,
+      "prompt_tokens_total": 12853796,
+      "prompt_tokens_per_qa": 18078.48
+    },
+    {
+      "method": "fixed_ffv",
+      "n": 711,
+      "raw": 73.9803,
+      "macro": 74.6177,
+      "task_acc": {
+        "STU": 63.3987,
+        "ATR": 79.0,
+        "OCR": 81.8898,
+        "OJR": 73.7179,
+        "ACR": 73.5632,
+        "FPD": 76.1364
+      },
+      "pixels_total": 12500946752,
+      "pixels_per_qa": 17582203.59,
+      "media_bytes_total": 3103403700,
+      "media_bytes_per_qa": 4364843.46,
+      "prompt_tokens_total": 12678894,
+      "prompt_tokens_per_qa": 17832.48
+    },
+    {
+      "method": "fixed_fcv",
+      "n": 711,
+      "raw": 74.8242,
+      "macro": 75.702,
+      "task_acc": {
+        "STU": 63.3987,
+        "ATR": 78.0,
+        "OCR": 87.4016,
+        "OJR": 71.1538,
+        "ACR": 74.7126,
+        "FPD": 79.5455
+      },
+      "pixels_total": 13014935552,
+      "pixels_per_qa": 18305113.29,
+      "media_bytes_total": 3124785465,
+      "media_bytes_per_qa": 4394916.27,
+      "prompt_tokens_total": 13145596,
+      "prompt_tokens_per_qa": 18488.88
+    }
+  ],
+  "tau3": 0.2307592643,
+  "tau4": 0.3554,
+  "v3_delta_vs_dense_macro_pp": 0.9889,
+  "v3_saving_vs_dense": {
+    "pixels": 4.45,
+    "media_bytes": 5.36,
+    "prompt_tokens": 4.54
+  },
+  "v4_saving_vs_dense": {
+    "pixels": 4.59,
+    "media_bytes": 5.27,
+    "prompt_tokens": 4.63
+  },
+  "new_qwen_calls": 0
+}
